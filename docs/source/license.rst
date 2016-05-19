@@ -1,0 +1,11 @@
+License
+=======
+
+The MIT License is a free software license originating at the Massachusetts
+Institute of Technology (MIT). It is a permissive free software license, meaning
+that it puts only very limited restriction on reuse and has therefore an excellent
+license compatibility.
+
+Contact
+=======
+Questions? Please contact eroicaleo@gmail.com
