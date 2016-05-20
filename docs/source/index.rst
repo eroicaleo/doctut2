@@ -7,23 +7,13 @@ Simple Documentation Tutorial: Doctut2!
 =======================================
 
 
-Another Simple Header
-=====================
-
-Here is some text explaining some very complicated staff.::
-
-    print 'hello'
-    >> hello
-
-Guide
-*****
+Notes on books
+===============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   license
-   help
-
+   books
 
 
 Indices and tables
