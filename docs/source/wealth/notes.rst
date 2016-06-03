@@ -22,3 +22,11 @@ CHAPTER IX. OF THE PROFITS OF STOCK.
   stock, or that it has increased beyond what they can employ with tolerable
   profit in the proper business of their own country; but they do not demonstrate
   that that business has decreased.
+
+然后斯密又提到在北美和西印度殖民地资本的利润比较高。这主要是因为，在那里之前人少，未被开
+发。所以以很低的价格就能够买到大片肥沃的土地。尽管在那里人手稀缺，工人的工资比较高，但是
+利润任然比在英国本土高。所以那里贷款的利息也比较高。在这里，斯密提到了第一桶金::
+
+    Money, says the proverb, makes money. When you have got a little, it is often
+    easy to get more. The great difficulty is to get that little.
+    
