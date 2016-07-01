@@ -77,5 +77,20 @@ Read quickly on simple material and slowly on difficult parts.
 2. Conceptually
 
   Answer question 3 & 4.
-  
+
 3. Syntopically
+
+# Chapter 6 Pigeonholing a Book
+
+## Read the title carefully
+
+Two examples:
+
+* "The Origins of Species": the proliferation of a vast number of species, not
+just mankind
+* "The decline and fall of roman empire": not the rise and fall of it.
+
+## Practical vs. Theoretical Books
+
+Practical book tell what to do, how to do. Have frequent occurrence of "should",
+"ought", "good", "bad", "ends", "means". Theoretical book keep saying "is".
