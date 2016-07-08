@@ -94,3 +94,25 @@ just mankind
 
 Practical book tell what to do, how to do. Have frequent occurrence of "should",
 "ought", "good", "bad", "ends", "means". Theoretical book keep saying "is".
+
+# Chapter 7
+
+The first 4 stage of analytically reading
+
+1. Classify the book according to kind and subject matter
+2. State what the whole book is about with the utmost brevity.
+3. Enumerate its major parts in their order and relation, and outline these parts
+as you have outlined the whole.
+4. Define the problem or problems the author is trying to solve.
+
+About the stage 2:
+
+Examples:
+
+**Herodotus' history (by himself)**
+
+These are the researches of Herodotus of Halicarnassus, which he publishes, in
+the hope of thereby preserving from decay the remembrance of what men have done,
+and of preventing the great and wonderful actions of the Greeks and the Barbarians
+from losing their due meed of glory; and withal to put on record what were their
+grounds of feud.
