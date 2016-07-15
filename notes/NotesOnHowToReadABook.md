@@ -100,12 +100,12 @@ Practical book tell what to do, how to do. Have frequent occurrence of "should",
 The first 4 stage of analytically reading
 
 1. Classify the book according to kind and subject matter
-2. State what the whole book is about with the utmost brevity.
+2. State what the whole book is about with the utmost brevity. (The unity of the book)
 3. Enumerate its major parts in their order and relation, and outline these parts
 as you have outlined the whole.
 4. Define the problem or problems the author is trying to solve.
 
-About the stage 2:
+## About the stage 2:
 
 Examples:
 
@@ -116,3 +116,13 @@ the hope of thereby preserving from decay the remembrance of what men have done,
 and of preventing the great and wonderful actions of the Greeks and the Barbarians
 from losing their due meed of glory; and withal to put on record what were their
 grounds of feud.
+
+**Aristotle's Ethics**
+
+This is an inquiry into the nature of human happiness and an analysis of the
+conditions under which happiness may be gained or lost, with an indication of
+what men must do in their conduct and thinking in order to become happy or to
+avoid unhappiness, the principal emphasis being placed on the cultivation of
+the virtues, both moral and intellectual, although other goods are also recognized
+as necessary for happiness, such as wealth, health, friends and a just society
+in which to live.
