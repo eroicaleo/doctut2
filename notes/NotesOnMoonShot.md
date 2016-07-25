@@ -40,6 +40,7 @@ it steady ... hold it till the countdown's finish. 3, 2, 1, ZERO.
 点火序列开始了。火焰重重地推着地面，一秒一秒越推越有力。6，5，4，但是火箭还是岿然不动。巨大的机械
 手臂稳稳地扶着它，一直要扶到倒数结束。
 
+
 LIFTOFF! The rocket is released! It rises foot by foot, it rises pound by pound.
 
 It climbs the summer sky. It rides a flapping cracking flame and shakes the air,
@@ -52,3 +53,38 @@ rocket flies lighter, the rocket flies faster; in twelve minutes' time, it's one
 hundred miles high. Then, after an orbit around the Earth to talk with Mission
 Control, to check the course, to check the rocket and ships, the rocket's last
 stage fires again, pushing the astronauts on.
+
+And when the Earth has rolled beneath and rolled behind and let the astronauts go,
+the Saturn's last stage opens wide and releases *Columbia*, which was the rocket's
+tip, and also *Eagle*, hidden till now, a stranger ship, more bug than bird, a
+black and gold and folded spider. Michael Collins, Columbia's pilot, turns her back
+around.
+
+... and locks *Columbia* to *Eagle*. Then Armstrong, Collins, Aldrin leave the
+last of the Saturn and travel on in their two small ships, joined together, flown
+as one. They go rushing into darkness, flying toward the Moon, far away, cold and quite,
+no air, no life, but glowing in the sky.
+
+onboard columbia and eagle, armstrong, collins, aldrin unclick gloves, unclick
+helmets, unclick the straps that hold them down, and float inside their small ships,
+their home for a week.
+
+Here there is no up or down; an astronaut can spin in air and turn a floor into
+a wall or a ceiling to a floor. Here, on those sometimes ceilings, walls, and
+floors - everywhere - there are straps and screens and gauges, buttons, handles,
+hoses, and switches, switches, switches.
+
+There are food and clothes packed into corners. There are flight plans, flashlights,
+pens, and cameras - and they float too.
+They drift from hands and pockets. That's why there's Velcro everywhere: for
+holding things so they stay put.
+
+Here, where everything floats, it takes some skill to eat a meal. That ham salad
+sandwich? Watch the crumbs! Soup? It comes in a bag, dry as dust. Fix the bag to
+the water gun, fill it, mix it, stir it up. Cream of chicken - not too bad! (Better
+than the peanut cubes.)
+
+Here, where everything floats, it takes some skill to go to sleep. There are no
+beds or pillows, no night or day. There is always, though, the hum of circuits,
+the whir of machines, the thought of where you are, and the thought of where you
+are going. 
