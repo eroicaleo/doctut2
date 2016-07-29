@@ -87,4 +87,7 @@ than the peanut cubes.)
 Here, where everything floats, it takes some skill to go to sleep. There are no
 beds or pillows, no night or day. There is always, though, the hum of circuits,
 the whir of machines, the thought of where you are, and the thought of where you
-are going. 
+are going.
+
+And one more thing. Here, where everything floats - everything - it takes some
+skill to use the toilet. (It takes pipes and hoses and bags.)
