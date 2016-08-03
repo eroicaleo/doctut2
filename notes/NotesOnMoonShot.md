@@ -2,8 +2,12 @@
 High above there is the Moon, cold and quite,
 no air, no life, but glowing in the sky.
 
+一轮清冷明月挂在空中，没有空气，没有生命，但却在空中闪耀。
+
 Here below, there are three men, who close themselves in special clothes, who
 click lock hands in heavy gloves, who click-lock heads in large, round helmets.
+
+在地球上，有三个宇航员正在穿着特制的宇航服。
 
 It's summer here in Florida, hot, and near the sea. But now these men are dressed
 for colder, stranger places. They walk with stiff and awkward steps in suits not
@@ -90,4 +94,46 @@ the whir of machines, the thought of where you are, and the thought of where you
 are going.
 
 And one more thing. Here, where everything floats - everything - it takes some
-skill to use the toilet. (It takes pipes and hoses and bags.)
+skill to use the toilet. (It takes pipes and hoses and bags.) And there's no fresh
+air outside the window; after a week this small home will not smell so good. This
+is not why anyone wants to be an astronaut.
+
+But still ahead there is the Moon, cold and quite, no air, no life, but glowing
+in the sky. Glowing and growing, it takes them in, it pulls them close.
+
+At the moon, collins stays in columbia, high above, a single circling soul.
+Armstrong and Aldrin leave in *Eagle*, and take it low and lower. They have just
+enough time and just enough fuel. They have a plan and a place to land, a chosen
+safe site among the craters.
+
+Now friends and strangers in the distance, down below, stay up late, get up early,
+and stop as one to watch and wait. There are only maps and models to see; there
+is no camera that can show the landing far away.
+
+But what strange sounds there are to hear! Whistles, beeps, and static, strange
+new words and quick, clipped news of altitudes and speeds, leaping across the
+dark between Mission Control and the men who are taking the *Eagle* to land on
+the Moon, who are going where no one has been.
+
+Onboard *Eagle*, Aldrin calls out information while Armstrong steers the ship.
+They fly low and lower, looking, looking for their landing site.
+But now *Eagle*, they see, has flown too far. Tey are miles from where thy mean
+to be, and below their small and spindly ship they see no level place, only broken
+stone and rock, only shadows in deep craters on the great and growing Moon.
+Far from home and far from help, still steady, steady, the astronauts fly till
+time and fuel are running out.
+
+Then ... there! Clean and flat, not too far! Sixty seconds left! Armstrong fires
+the rockets. *Eagle* slows and lower goes until a spray of dust, a bloom of moon,
+flowers up around her. Slow and slower, low and lower, low and lower - landing.
+
+And far away, where friends and strangers lean to listen, where friends and
+strangers lean to hear, there comes a distant voice: Armstrong, calling from the
+Moon, calm as a man who just parked a car. "Houston," he says. "Tranquility Base
+here. The *Eagle* has landed." Armstrong is calm - but on Earth they cheer!
+Then Armstrong and Aldrin climb down from the *Eagle* in heavy gloves, in large,
+round helmets, in suits not made for Earth - in suits made for the Moon, here
+below, all around them, cold and quiet, no air, but life - there is life on the
+strange and silent, magnificent Moon.
+Armstrong and Aldrin walk its rough, wide places. They step, they hop, as light
+as boys, they lope, they leap!
