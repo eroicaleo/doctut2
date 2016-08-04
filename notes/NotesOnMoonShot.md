@@ -1,8 +1,79 @@
+# The preface
+
+* Launch
+
+Apollo 11 lifts off from Cape Kennedy, Florida, 9:32 AM Eastern Daylight Time,
+July 16, 1969.
+
+* SATURN V LAUNCH Vehicle - First Stage (S-IC)
+
+Lifts Apollo 11 to 40 miles. Jettisoned at 2 min, 42 seconds.
+
+* Second stage (S-II)
+
+Lifts Apollo 11 to 117 miles. Jettisoned at 9 min, 12 seconds.
+
+* Third stage (S-IVB)
+
+Insert Apollo 11 into Earth orbit. Reignites at 2 hours, 44 minutes for
+**TRANSLUNAR INJECTION**, pushing Apollo 11 out of orbit, toward the Moon.
+
+* APPOLLO SPACECRAFT
+    * Lunar Module (LM) Eagle
+    * Severice Module (SM) and Command Module (CM) Columbia
+
+* Transposition, docking, and ejection
+
+Beginning at 3 hours, 20 minutes, CSM separates from the Saturn S-IVB, turns
+around, and docks with the KM.
+
+* Lunar Orbit Insertion
+
+Apollo 11 reaches the Moon on July 19. Two burns of the CSM engine insert Apollo
+11 into a circular Lunar orbit.
+
+* CSM-LM separation
+
+At 1:47 PM EDT on July 20, Eagle and Columbia undock. Eagle enters a descent orbit
+and from there begins **powered descent**.
+
+* Lunar Landing
+
+Eagle touches down at the Sea of Tranquility at 4:18 PM EDT.
+
+* Man on the Moon
+
+Millions on Earth watch that night as, at 10:56 PM EDT. July 20, 1969, Neil Armstrong
+sets foot on the Moon, Buzz Aldrin joins him twenty minutes later. For two and a half
+hours the astronauts explore the Lunar surface.
+
+* Lunar liftoff
+
+Armstrong and Aldrin ride the ascent stage of Eagle up from Tranquility Base at
+1:54 PM EDT on July 21.
+
+Back in Lunar orbit, the LM and CSM dock. Armstrong and Aldrin rejoin Collins in
+Columbia, bringing with them Lunar samples. Eagle's ascent stage is then released.
+
+and the CSM engine ignites for **TRANSEARTH INJECTION**. After a two and half day
+**TRANSEARTH COAST** Appollo 11 reaches Earth and Jettisoned the Service Module.
+
+* Entry and landing
+
+Columbia enter Earth's atmosphere and splashes down safely at 12:50 PM EDT on
+July 24.
+
+The astronauts are taken by helicopter to the USS Homet, where they enter the
+Mobile Quarantine Facility. After three weeks in quarantine - and with no sign
+of Moon germs - Armstrong, Collins and Aldrin are released to parades, celebrations,
+and a goodwill tour of the world.
+
+# The main book
 
 High above there is the Moon, cold and quite,
 no air, no life, but glowing in the sky.
 
-一轮清冷明月挂在空中，没有空气，没有生命，但却在空中闪耀。
+一轮清冷明月挂在空中，无声无息，但却光彩熠熠。
 
 Here below, there are three men, who close themselves in special clothes, who
 click lock hands in heavy gloves, who click-lock heads in large, round helmets.
@@ -137,3 +208,24 @@ below, all around them, cold and quiet, no air, but life - there is life on the
 strange and silent, magnificent Moon.
 Armstrong and Aldrin walk its rough, wide places. They step, they hop, as light
 as boys, they lope, they leap!
+In the dust and stone beneath their feet, no seed has ever grown, no root has
+ever reached. Still secrets wait there, the story of the Moon: Where did it come
+from? How old is it? What is it made of? (Not green cheese.)
+And up above, the ash-gray plains, the sky is pitch and empty, and all the stars
+stay hidden: That is how bright the Moon is when you are standing on its face.
+
+But in that blank and starless sky ...
+
+... high above there is the Earth, rushing oceans, racing clouds, swaying fields
+and forests. Family, friends, and strangers, everyone you've ever known, everyone
+you might - the good and lonely Earth, glowing in the sky.
+
+When there work is done, Armstrong, Collins, Aldrin fly back together from the Moon,
+which rolls beneath, which rolls behind, letting them loose, letting them go.
+They fly back together through the dark with pictures, stones, and stories, with
+secrets of the sky, with a view of home, from far away.
+
+Back to family, back to friends, to warmth, to light, to trees and blue water.
+Back from the Moon, they land with a **SPLASH!**.
+
+To warmth, to light, to home at last.
