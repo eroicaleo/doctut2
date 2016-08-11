@@ -37,9 +37,21 @@ against Mill's case for justice and rights.
 Suppose the utilitarian calculus in the long run
 works out as he says it will such that respecting people's rights
 is a way of making everybody better off in the long run.
-Is that the right reason?
+Is that the right reason,
 Is that the only reason to respect people?
+
+3:28
 If the doctor goes in and yanks the organs from
 the healthy patient who came in for a checkup
 to save five lives,
 there would be adverse effects in the long run.
+eventually people would learn about this, and would stop going in for checkups.
+Is it the right reason, is it the only reason that you, as a doctor, won't yank
+the organs out of a healthy patient? That you think, well, if I use him in this
+way, in the long run, more lives will be lost? or is there another reason having
+to do with intrinsic respect for the person as an individual? And if that reason
+matters, and it's not so clear, that even Mill's Utilitarianism can take account
+of it. Fully to examine these two worries or objections to Mill's defense, we need
+to push further.
+
+4:35
