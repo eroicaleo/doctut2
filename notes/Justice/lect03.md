@@ -55,3 +55,12 @@ of it. Fully to examine these two worries or objections to Mill's defense, we ne
 to push further.
 
 4:35
+We need to ask in the case of higher or worthier pleasures, are there theories
+of good life that can provide independent moral standards for the worth of
+pleasures? If so what do they look like? That's one question.
+In the case of justice and rights, if we suspect that Mill is implicitly leaning
+on notions of human dignity or respect for persons that are not, strictly speaking,
+utilitarian, we need to look to see whether there are some stronger theories of
+rights that can explain the intuition, which even Mill shares, the intuition that
+the reason for respecting individuals and not using them goes beyond,
+even utility in the long run.
