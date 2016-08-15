@@ -5,8 +5,9 @@
 
 Key word:
 
-ethos 时代精神
+ethos 时代精神, but Weber use it same as "ethics" pp. 59 endnotes 15
 work
+rational, pp. 59 endnotes 13
 
 one important source of modern work ethic and orientation to material success
 must be located outside the arena
@@ -18,3 +19,8 @@ consuming question: am I among the saved? Little else appeared to matter greatly
 to them, not even family, friends, leisure or hobby.
 
 但是这里没有解释为什么那些“Puritans”把努力工作和得到救赎联系在一起。也许在正文中有解释。
+
+## Controversy over the origin of Capitalism
+
+Intensification of avarice: "The greed for gain" can be found among "all sorts and
+conditions of men in all times and in all countries of earth".

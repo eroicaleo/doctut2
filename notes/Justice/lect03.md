@@ -78,4 +78,10 @@ it says the fundamental individual right is the right to liberty.
 6:40
 Precisely
 because we are separate individual beings, we are not available to any use that
-the society might desire or device.
+the society might desire or device. Precisely because we are individual separate
+human beings, we have a fundamental right to liberty and that means a right to
+choose freely, to live our lives as we please, provided we respect other people's
+rights to do the same. That's the fundamental idea. Robert Nozick, one of the
+libertarian philosophers we read, for this course puts it this way, individuals
+have right, so strong and far-reaching are these rights that they raise the question
+of what, if anything, the state may do.
