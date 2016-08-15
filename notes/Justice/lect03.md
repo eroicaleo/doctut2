@@ -64,3 +64,18 @@ utilitarian, we need to look to see whether there are some stronger theories of
 rights that can explain the intuition, which even Mill shares, the intuition that
 the reason for respecting individuals and not using them goes beyond,
 even utility in the long run.
+
+5:37
+Today we turn to one of those theories of rights. Strong theories of rights say
+individuals matter not just as instruments to be used for a larger social purpose
+or for the sake of maximizing utility. Individuals are separate beings with separate
+lives worthy of respect and so it's a mistake, according to strong theory of rights,
+it's a mistake to think about justice or law by just adding up preferences and values.
+The strong theory of rights we turn to today is libertarianism.
+Libertarianism takes individual rights seriously. It's called libertarianism because
+it says the fundamental individual right is the right to liberty.
+
+6:40
+Precisely
+because we are separate individual beings, we are not available to any use that
+the society might desire or device.
