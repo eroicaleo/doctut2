@@ -28,7 +28,7 @@
 6. Turn the pages, dipping in here and there, reading a paragraph or two,
 sometimes several pages in sequence but never more than that.
 
-  Looking for signs of the main contention and listening for the basic pulsebeat
+  Looking for signs of the main contention and listening for the basic pulse-beat
   of the matter. Do not fail to read the last two or three pages or if there are
   an epilogue. Authors sum up what they think is new and important in these pages.
 
@@ -95,7 +95,7 @@ just mankind
 Practical book tell what to do, how to do. Have frequent occurrence of "should",
 "ought", "good", "bad", "ends", "means". Theoretical book keep saying "is".
 
-# Chapter 7
+# Chapter 7 X-Raying a book
 
 The first 4 stage of analytically reading
 
@@ -105,7 +105,13 @@ The first 4 stage of analytically reading
 as you have outlined the whole.
 4. Define the problem or problems the author is trying to solve.
 
-## About the stage 2:
+A Book is like a house, each room is independent, but they are connected
+
+## About the stage 2: Stating the unity of a book
+
+Expository works usually tells the unity of their plan. But it's still the duty
+of the reader to find it out. Most readers neglect author's introductory words.
+Unity can be differently stated.
 
 Examples:
 
@@ -126,3 +132,34 @@ avoid unhappiness, the principal emphasis being placed on the cultivation of
 the virtues, both moral and intellectual, although other goods are also recognized
 as necessary for happiness, such as wealth, health, friends and a just society
 in which to live.
+
+## Mastering the Multiplicity: The Art of Outlining a Book
+
+Formula: The whole book is about so and so and such and such. (1) The author
+accomplished this plan in 5 major parts, the first part is so and so, the 2nd
+part is such and such, ... (2) The first of these major part is divided into 3
+sections ... (3) The 1st section of 1st part
+
+Good readers need to do it habitually. But we just need to do it approximately,
+otherwise it can be an infinite amount work for readers.
+Then the authors use US constitution as an example.
+The authors also use Ethics of Aristotle as another example. The Ethics has 10 books,
+but the outline doesn't have to correspond to the 10 books.
+Use authors' sectional division as a guide, but no rely on them passively.
+Without step 3, step 2 is just a guess. We need to go through step 2 to understand
+how and why we state the unity.
+
+## The reciprocal arts of reading and writing
+
+Reading and writing are reciprocal. Reading needs to find out the skeleton under
+the flesh, writing needs to put flesh on the skeleton. (让文章有血有肉).
+Writing needs to have unity, clarity and coherence. Clarity means each part of
+the writing is distinctive and coherence means all the parts are hanged together
+in an orderly disposition.
+
+## Discover authors intention
+
+The readers need to grasp the primary and subordinate questions and their order.
+The authors gave some examples of questions.
+
+## The first stage of analytical reading
