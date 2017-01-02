@@ -49,3 +49,31 @@ devotion to the gods in exchange for mastery over plants and animals.
 
 Then the kingdoms and trade networks expanded, people needed gods whose power and
 authority encompassed a whole kingdom.
+
+### The benefits of idolatry
+
+现代人在一神教的长期洗脑之下（brainwashing)，总认为多神教是无知而幼稚（ignorant and childish）。
+其实多神教并不反对说有一种更加supreme power 存在并且支配这这些神。希腊，北欧，阿兹台克，印度
+多神体系中都有更高级的单一力量：fate, atman。
+
+The fundamental difference is the supreme power is devoid of interest and biases
+, it is unconcerned with the mundane desires, cares and worries of human.
+
+所以大多数人不会想这些力量祷告，而会像smaller and partial power祈求。
+
+多神教的一个意义深远的影响就是宗教宽容。It's inherently open-minded and rarely persecute
+'heretics'.
+
+Roman and Aztec empire doesn't require their subjects to change their religion.
+They only ask them to respect the gods of the empire. The only religion the Roman
+cannot tolerate is Christian, who refused to respect the Roman gods.
+
+根据这本书，罗马帝国由皇帝直接发起的迫害只有4次。受到迫害的基督徒总数大概是几千人左右。但是之后的
+一千五百多年中，基督教内部教派之间的相互迫害导致了数以百万计的基督徒死亡。例如，St. Bartholomew
+day's massacre, 08/23/1572, estimated 5000 ~ 10000 protestants are killed by Catholics.
+
+这本书简略地谈了 the difference between Catholics and Protestants.
+Protestants: 只要信上帝就能进天堂。
+Catholics: 还要attend church rituals and do good deeds.
+
+### God is one
