@@ -78,8 +78,26 @@ Catholics: 还要attend church rituals and do good deeds.
 
 ### God is one
 
-多神教导致了一神教的产生，因为有些教徒太喜欢某一个神。现今最早的多神教出现在大约公元前1700年的埃及。
+多神教导致了一神教的产生，因为有些教徒太喜欢某一个神。现今最早的多神教出现在大约公元前1350年的埃及。
 有一个法老强迫大家只信一个神，但是随着他的死亡，很快就失败了。
 
 犹太教是一神教，但是它却不具有universal and missionary的性质，因为他们相信上帝只关心犹太人以及
-以色列这一块土地。
+以色列这一块土地。直到:
+
+Paul of Tarsus, reasoned that if the supreme power has bias and interests, and
+if the He has bothered to incarnate Himself in the flesh and to die on the cross
+for the salvation of humankind, then this is something everyone should hear about,
+not just Jews. It was thus necessary to spread the good word - the gospel - about
+Jesus throughout the world.
+
+如果一神教承认别的教派的合法性，就等于说明自己的神不是supreme power of the universe.所以
+过去的两千年一神教一直在用暴力消灭别的宗教。他们确实成功了。现在除了东亚之外的绝大部分地区，人们
+总是信仰一种一神教。并且global political order is built on monotheistic foundation.
+
+在基督教中，多神教以一种新的方式继续存在。就像朱庇特是罗马的守护神，St George for England,
+St Andrew for Scotland, St Stephen for Hungary and St Martin for France.
+St Ambrose for Milan, St Mark for Venice.
+St Florian for chimney cleaning, St Mathew for tax collection.
+
+神学理论：因为supreme power
+人们现实心里是
