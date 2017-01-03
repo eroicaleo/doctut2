@@ -77,3 +77,9 @@ Protestants: 只要信上帝就能进天堂。
 Catholics: 还要attend church rituals and do good deeds.
 
 ### God is one
+
+多神教导致了一神教的产生，因为有些教徒太喜欢某一个神。现今最早的多神教出现在大约公元前1700年的埃及。
+有一个法老强迫大家只信一个神，但是随着他的死亡，很快就失败了。
+
+犹太教是一神教，但是它却不具有universal and missionary的性质，因为他们相信上帝只关心犹太人以及
+以色列这一块土地。
