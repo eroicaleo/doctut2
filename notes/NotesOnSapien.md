@@ -99,5 +99,39 @@ St Andrew for Scotland, St Stephen for Hungary and St Martin for France.
 St Ambrose for Milan, St Mark for Venice.
 St Florian for chimney cleaning, St Mathew for tax collection.
 
-神学理论：因为supreme power
-人们现实心里是
+理论和现实的差距总是很大的。
+神学理论：因为supreme power无所不能，所以不需要求助于次级的神。
+人们现实心里是大神距离太远，没有办法帮助实现现实的需求，因而要求助次级的神。
+
+### The battle of Good and Evil
+
+二神教较之于一神教的优势在于它可以解释世间为什会有邪恶，灾难，痛苦。
+
+The drawback is it's hard to explain "The problem of order": God creates the law
+of physics, but in the world
+of dualism, who creates the law that Good and evil that must obey.
+
+One famous dualistic religion is Zoroaster.
+
+一神教对于二神教的吸收：The powerful evil force. The body and soul, the matter and
+spirit.
+
+总结: The monotheism is a kaleidoscope of monotheist, dualist, polytheist, animist.
+The average Christian believes in monotheist God, dualist evil, polytheist saints
+and animist ghost.
+
+### The Law of Nature
+
+东方的儒释道皆属于这样的宗教，西方的犬儒主义，斯多克主义皆属于这个范畴。
+
+其特点是认为万事万物都受到自然法则的约束。有强大的神的存在，但是他们也无法脱离自然法则。
+
+重点阐述佛教。释迦摩尼参透了人世间的痛苦并不是来自外部世界，而是源于内心的贪婪与欲望（craving）。
+释迦摩尼的解决办法是训练一种冥想（meditation）方法，让人把思想放在经历上，而不是欲望上。
+What am I experiencing now rather than what would I rather be experiencing.
+
+作者概括的佛教的核心价值：suffering arises from craving; the only way to be fully
+liberated from suffering is to be fully liberated from craving; and the only way
+to be liberated from craving is to train the mind to experience reality as it is.
+
+能够达到这个目标的人就叫做涅槃（nirvana）。
