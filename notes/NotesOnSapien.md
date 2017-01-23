@@ -135,3 +135,28 @@ liberated from suffering is to be fully liberated from craving; and the only way
 to be liberated from craving is to train the mind to experience reality as it is.
 
 能够达到这个目标的人就叫做涅槃（nirvana）。
+
+### Worship of man
+
+Unity: This section presents several 20th century religions, communism, nationalism,
+capitalism, liberalism, and introduces communism and humanity in detail.
+
+Outline
+
+* Compare the communism with other old religion
+    * Buddhism: law of nature was discovered by Siddharth Gautama, Communism: it's
+      discovered by Karl Marx.
+    * Has holy scripts: Das Kapital, which foretold the history
+    * Has holiday and festival
+    * Has "theologians" and "Chaplain" ("Commissar")
+    * Has martyrs, hold wars and heretics ("Trotskyism")
+    * Fanatical and missionary
+* Presents three humanity: homo sapiens has a unique and sacred nature endowed
+by the creator which is fundamentally different from other nature beings. The
+supreme good is the good of humanity.
+    * Liberalism: humanity resides in each individual human, the commandment is
+      to protect the freedom of each homo sapiens.
+    * Socialism: humanity resides within the species of homo sapiens, commandment
+      is to protect equality with the species.
+    * Evolutionary, e.g. Nazi, might degenerate or evolve, commandment is to protect
+      from degenerating.
