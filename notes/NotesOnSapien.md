@@ -160,3 +160,42 @@ supreme good is the good of humanity.
       is to protect equality with the species.
     * Evolutionary, e.g. Nazi, might degenerate or evolve, commandment is to protect
       from degenerating.
+
+## The secret of success
+
+### The hindsight fallacy
+
+Unity: History is chaotic, not deterministic and not predictable. It's easy to
+explain how a series of particular events happens, but it's difficult to explain
+why this specific possibility is realized but not others.
+
+Outline:
+
+* Example on "how" and "why" Christian took over Roman empire. We can guess the
+  reason of Emperor Constantine's conversion, but it's impossible to know the
+  exact reason.
+* Definition of "how" and "why" an event happens.
+  * "how": means reconstruct the series of specific events that led from one point
+    to another
+  * "why": means find the causal connection that account for the occurrence of
+    particular series of events to the exclusion of other possibilities.
+* Criticize the "deterministic" historians and point out the iron law of history
+  * geological, genetic or economic force only adds constraints, it's like constraints
+    in an optimization problem or necessary conditions, but it's not sufficient
+    conditions.
+  * It's the iron law of history that what is inevitable in hindsight is far more
+    obvious at that time.
+* possibilities seem unlikely to contemporaries often get realized.
+  * Christian in 306 when Constantine assumes throne, esoteric Eastern sect,
+    becomes Roman state religion
+  * Bolsheviks in 1913, small radical faction, took Russian 4 yr later
+  * Islam in 600 AD, a small band of desert-dwelling Arabs.
+* History is "level 2" chaotic system, the dynamics respond to the prediction.
+  "level 1" system is like weather. Examples are like:
+  * Stock market
+  * 1989 Soviet revolution, Arab spring.
+* Why we need to study history. Not to know the future but to broad our horizon,
+  So we know our current situation is neither nature nor inevitable. It can have
+  many possibilities.
+
+Term: hindsight
