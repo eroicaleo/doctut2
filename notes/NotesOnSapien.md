@@ -1,3 +1,9 @@
+
+[z小姐的笔记](https://read01.com/j5NdBm.html)
+[为人父的笔记上](http://blog.wenxuecity.com/myblog/10578/201608/1203147.html)
+[为人父的笔记下](http://blog.wenxuecity.com/myblog/10578/201608/1205818.html)
+[知乎－怎样评价尤瓦尔·赫拉力的《人类简史》](https://www.zhihu.com/question/27767448)
+
 ## 12 The law of religion
 
 Today religion is considered as a source of discrimination, disagreement, disunion.
@@ -161,7 +167,7 @@ supreme good is the good of humanity.
     * Evolutionary, e.g. Nazi, might degenerate or evolve, commandment is to protect
       from degenerating.
 
-## The secret of success
+## 13 The secret of success
 
 ### The hindsight fallacy
 
@@ -199,3 +205,35 @@ Outline:
   many possibilities.
 
 Term: hindsight
+
+### Blind Clio
+
+Unity: History's decision is not made for the benefit of human. Culture idea is
+more like virus, replicating itself unconsciously.
+
+Outline:
+
+* There is absolutely no evidence that human well-being inevitably improve as the
+  history rolls along. There is no objective scale to measure the benefit.
+    * Examples, Christian is not good for people who doesn't take Christian idea.
+    * Same thing for Islam.
+* Culture idea is like parasites or virus, live inside the minds of humans. They
+  multiply and spread from one host to another, occasionally weakening or killing
+  the hosts.
+    * Like communism, can compel people to dedicate his life to spread the idea,
+      even at the price of his life.
+* Memetics, culture evolution is based on the replicating of the basic culture
+  unit called memes. The successful cultures are those who excel in replicating
+  their memes, irrespective of the costs and benefits to their human cost.
+* Similar idea is in postmodernism
+    * Nationalism is like plague, one country is infected by it, neighboring
+      countries are also likely to catch the virus. It causes war, oppression,
+      hate and genocide.
+* Also in social science, game theory explains why decision that harm all players
+  can take root and spread.
+    * example is arm races, billions of dollars are wasted, which could have been
+      invested in education and health.
+    * The arm race idea doesn't seek to survive or reproduce, but it's an unintended
+      results of powerful dynamics.
+
+## 14 The discover of Ignorance
