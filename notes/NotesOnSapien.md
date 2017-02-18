@@ -206,6 +206,9 @@ Outline:
 
 Term: hindsight
 
+点评："how"不就是太史公所说的：王迹所兴，源始查终，见圣观衰。这里说的偶然性，不就是太史公说的
+天人之际。历史不能完全由人决定。但是人事可以排除掉一些可能性，所以要尽人事，听天命。
+
 ### Blind Clio
 
 Unity: History's decision is not made for the benefit of human. Culture idea is
@@ -224,7 +227,7 @@ Outline:
       even at the price of his life.
 * Memetics, culture evolution is based on the replicating of the basic culture
   unit called memes. The successful cultures are those who excel in replicating
-  their memes, irrespective of the costs and benefits to their human cost.
+  their memes, irrespective of the costs and benefits to their human hosts.
 * Similar idea is in postmodernism
     * Nationalism is like plague, one country is infected by it, neighboring
       countries are also likely to catch the virus. It causes war, oppression,
@@ -236,4 +239,82 @@ Outline:
     * The arm race idea doesn't seek to survive or reproduce, but it's an unintended
       results of powerful dynamics.
 
+点评： 这就好像是我们经常说的“文化的传承”。这样看来，儒家文化还是一种蛮成功的文化。
+
 ## 14 The discover of Ignorance
+
+从衣食住行的角度介绍了科学革命给人类社会带来的巨变:
+* 登月(July/20/1969)是一向evolutionary and cosmic feat.
+* 试爆原子弹成功(July/16/1946)让人类有了end history的能力。
+
+Before 1500, government and wealthy patrons allocated funds to education and
+scholarship, the aim was to preserve existing capabilities rather than acquire
+new one.
+
+After 1500,
+People increasingly come to believe that they can increase their abilities by
+investing in scientific research. It's not blind faith,
+it has been repeatedly proven empirically.
+
+science -> power -> resource -> science loop.
+
+### Ignoramus
+
+Outline:
+
+Modern science is different from all previous tradition of knowledge in 3 critical
+ways:
+
+* Willingness to admit ignorance: Assume we don't know everything. Even more critically,
+  things we think we know can be proven wrong as we gain more knowledge. No
+  concept, idea or knowledge is sacred and beyond challenge.
+* Gather observations and use mathematical tools to connect observations together
+  to form comprehensive theories.
+* Not only to create theories, but to acquire new power and develop new technologies.
+
+*The scientific revolution is not a revolution of knowledge but a revolution of
+ignorance.*
+
+Premodern traditions of knowledge about knowledge: Gods or ancient wise people
+has revealed us in the holy scripts or oral conversation.
+
+Premodern traditions of knowledge about ignorance:
+
+1. An individual can be ignorance, he just needs to ask wiser people.
+2. entire tradition can be ignorant of *unimportant* things, e.g. how spider weave
+  webs. This kind of knowledge is a little more than trivia, and with no bearing
+  on the fundamental truths of society, politics and economy.
+3. People who argued they found the important thing were marginalized or persecuted,
+  or they founded another tradition and began arguing that they knew everything.
+
+Modern science about ignorance: it's unique because it openly admits collective
+ignorance regarding to the most important questions.
+
+1. Darwin didn't claim he had solved the riddle of life once and for all. Biologists
+  admit they don't know how brain works. Physicists don't know how to reconcile
+  Relativity and Quantum mechanics.
+2. Debate theories based on new evidence: economy.
+3. Even a theory is consistent with available evidence, everyone agrees it has to
+  be revised or rejected with new contradictory evidence.
+
+The willingness to admit ignorance has made modern science more dynamic, inquisitive
+and supple than any previous traditions of knowledge. This has hugely expanded
+our capacity to understand the world and our ability to invent new technologies.
+But it also presents us with a serious problem that most of our ancestors don't
+have to cope with. The assumption that we don't know everything and even the knowledge
+we process is tentative, extends to the shared myth that enable millions of strangers
+to cooperate effectively. If the evidence shows that many of those myths doubtful,
+how can we hold society together? How can our communities, countries and international
+system function?
+
+Two approaches:
+
+* Communism and Nazi, take one scientific theory and declares it's final and absolute truth.
+* Liberal humanism, live with a non-scientific theory, which is built on a dogmatic
+  belief in the unique worth and rights of human beings.
+
+点评：人类进步的过程从认识自己的无知开始，个人的进步不也是从认识到自我的无知开始吗?
+前文提到史前人类的大脑和现代人的没有区别，那么这个时候开始科学革命又是为什么呢？前文又提到如果
+没有偶然性，可能又会过几百年再开始科学革命。
+
+做一件事要成功得有第一正确的态度，第二要有正确的方法，第三最好还要有实用行。
