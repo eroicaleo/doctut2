@@ -167,6 +167,8 @@ supreme good is the good of humanity.
     * Evolutionary, e.g. Nazi, might degenerate or evolve, commandment is to protect
       from degenerating.
 
+点评：作为一个犹太人，能够对Nazi进行如此冷静客观的分析，令人敬佩。
+
 ## 13 The secret of success
 
 ### The hindsight fallacy
@@ -318,3 +320,11 @@ Two approaches:
 没有偶然性，可能又会过几百年再开始科学革命。
 
 做一件事要成功得有第一正确的态度，第二要有正确的方法，第三最好还要有实用行。
+
+### Science dogma
+
+Unity: The modern science research method is based on collecting empirical observations
+and connecting them into comprehensive theory with the help of mathematical tools.
+
+Modern science has no dogma. Yet it has a common core of research method, which
+is based on collecting empirical observations, those that we can observe 

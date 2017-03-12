@@ -163,3 +163,8 @@ The readers need to grasp the primary and subordinate questions and their order.
 The authors gave some examples of questions.
 
 ## The first stage of analytical reading
+
+# Chapter 8 Coming to terms with an author
+
+Next stage is "coming to terms", because term is basic element of communicable
+knowledge.
