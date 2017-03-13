@@ -326,5 +326,13 @@ Two approaches:
 Unity: The modern science research method is based on collecting empirical observations
 and connecting them into comprehensive theory with the help of mathematical tools.
 
-Modern science has no dogma. Yet it has a common core of research method, which
-is based on collecting empirical observations, those that we can observe 
+Outline:
+
+Excerpt:
+Modern science has no dogma. Yet it has a common core of research methods, which
+are all based on collecting empirical observations, those we can observe with
+at least one of our senses - and putting them together with the help of mathematical
+tools.
+
+As modern people came to admit that they don't know the answers to some very
+important questions, they found it necessary to look for completely new knowledge.
