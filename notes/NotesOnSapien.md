@@ -328,6 +328,11 @@ and connecting them into comprehensive theory with the help of mathematical tool
 
 Outline:
 
+Modern research methods have two components:
+1. obtain new observations
+2. connect observations with mathematical tools
+Traditional knowledge laid down their theories with stories and narrative forms.
+
 Excerpt:
 Modern science has no dogma. Yet it has a common core of research methods, which
 are all based on collecting empirical observations, those we can observe with
@@ -336,3 +341,45 @@ tools.
 
 As modern people came to admit that they don't know the answers to some very
 important questions, they found it necessary to look for completely new knowledge.
+Consequently, the dominate modern research methods take for grant the insufficiency
+of old knowledge. Instead of studying old traditions, emphasis is now placed on
+new observations and experiments. When present observation collides with past
+tradition, we give precedence to the observation. ... But from their first year
+in college, aspiring physicists, archaeologist and political scientists are taught
+that it's their mission to go beyond what Einstein, Heinrich Schliemann and Max
+Weber ever know.
+
+Mere observations, however, are not knowledge. In order to understand the universe,
+we need to connect observations into comprehensive theories. Earlier traditions
+usually formulated their theories in terms of stories. Modern science uses mathematics.
+
+When traditional mythologies and scriptures laid down general laws, these were
+presented in narrative rather than mathematical form.
+
+### Knowledge is power
+
+Outline:
+
+Paragraph Summary:
+
+* Knowledge is hard to understand
+    * mathematical language and contradict to common sense.
+* Knowledge gives us new power, enjoys immense prestige. Everyone understand this.
+
+* 1620 Francis Bacon's science manifesto: "Knowledge is power".
+    * Truth is poor test, no knowledge is 100% true.
+    * Utility is good test. Theory empowers us, makes us to do new things constitutes
+      knowledge.
+
+* connection between science & technology is so strong to separate them TODAY.
+    * No science research, no new technology.
+    * Don't result in new technology, little point to do research.
+
+* relationship between the 2
+    * <1500, totally separate.
+    * 1600, revolutionary.
+    * 1700, tightened.
+    * early 1800, still don't finance research.
+    * late 1800, tied.
+
+* military revolution, today technology, past organization.
