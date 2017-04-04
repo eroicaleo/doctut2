@@ -382,4 +382,39 @@ Paragraph Summary:
     * early 1800, still don't finance research.
     * late 1800, tied.
 
-* military revolution, today technology, past organization.
+* In world war II
+    * Germany scientists was developing V-2 rocket and jet-powered aircraft which
+      gave soliders and civilians hope even defeat is imminent and Allies were
+      closing in.
+    * American Manhattan project developed atomic bomb and Japan surrendered
+      unconditionally
+
+* military revolution is the product of organizational (past) rather than
+  technological changes (now).
+    * No empire rises thanks to technological wizardry
+    * No rulers thought to enlarge technological gap
+    * Vanquished empires often enjoys superior military/civilian tech.
+
+* Roman empire army
+    * advantage rested on efficient organization, iron discipline, huge manpower
+      reserve
+    * technologically, no edge over carthage, Macedonia.
+    * No research and development department.
+    * Scipio Aemilianus would have a fair chance of beating Constantine 500 yr
+      later.
+    * Napoleon is a brilliant tactician, but can fight against a modern army
+
+* Chinese empire
+    * Most important military invention is gunpowder.
+    * Only used in firecrackers.
+    * No medieval Manhattan Project even Song empire collapsed in the Mongol invasion.
+    * Reason: No one thinks gunpowder would save them or make them rich.
+
+* Logistic and strategy continued to have far greater impact.
+    * Even Napoleon, Himself artillery man, had little interest in new weapons.
+* The advent of capitalism system and Industrial revolution, intertwined Science
+  Industry and military technology together.
+
+Comments:
+
+套用《明朝那些事儿》拿破仑一个优秀的战术实施者，一个坚定的战斗执行者，但他并不是一个卓越的战略制定者。

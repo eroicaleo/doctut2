@@ -168,3 +168,19 @@ The authors gave some examples of questions.
 
 Next stage is "coming to terms", because term is basic element of communicable
 knowledge.
+
+# Chapter 9 Determining an author's messages
+
+## Paragraph summary
+
+* Proposition in trading:
+    * Definition: proposal, offer, a declaration of intention to act in certain ways.
+    * Needs to be clear and attractive
+    * Comes before terms.
+
+* Proposition in book writing:
+    * Declare of knowledge, something to be true or false.
+    * Comes after terms.
+
+* Proposition is opinion if not supported by reasons.
+    * More important is how he persuades us.
