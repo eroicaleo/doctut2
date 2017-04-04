@@ -418,3 +418,23 @@ Paragraph Summary:
 Comments:
 
 套用《明朝那些事儿》拿破仑一个优秀的战术实施者，一个坚定的战斗执行者，但他并不是一个卓越的战略制定者。
+
+### Idea of progress
+
+Paragraph Summary:
+
+* Past cultures didn't believe in progress
+    * Golden age exists in the past
+    * Current world is stagnant or deteriorating
+    * Their reason: if Jesus/Confucius/... can't abolish famine/disease/poverty/war,
+      how could we do.
+
+* Ancient myths: discover new knowledge/invent new tools/attempt to go beyond human limitation
+    * ludicrous + hubris
+    * inevitable lead to disappointment and disaster
+
+* Modern culture:
+    * marriage of two ideas made people believe real progress might be possible
+        1. admission of ignorance
+        2. scientific discoveries could give new power
+    * famine/disease/poverty/war was not the fate but the fruits of ignorance.
