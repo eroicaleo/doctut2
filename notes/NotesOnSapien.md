@@ -438,3 +438,11 @@ Paragraph Summary:
         1. admission of ignorance
         2. scientific discoveries could give new power
     * famine/disease/poverty/war was not the fate but the fruits of ignorance.
+
+* Lightning example
+
+* poverty example
+    * past: always have poverty
+    * modern: amenable to intervention and can be eliminated
+    * social poverty: withhold from some people the opportunities available to
+      others.

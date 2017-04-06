@@ -171,6 +171,11 @@ knowledge.
 
 # Chapter 9 Determining an author's messages
 
+## Term
+
+Proposition, Conclusion
+Argument, Reason
+
 ## Paragraph summary
 
 * Proposition in trading:
@@ -184,3 +189,13 @@ knowledge.
 
 * Proposition is opinion if not supported by reasons.
     * More important is how he persuades us.
+
+* Argument is a number of statements related in a certain way, key words like:
+    * Because of, if/then, since, therefore ...
+
+* Premises -> argument -> Conclusion
+
+* word -> sentence -> paragraph
+* Term -> Proposition -> Argument
+
+* Outlining (work down) Interpretation (work up) meets at Proposition and argument.
