@@ -199,3 +199,11 @@ Argument, Reason
 * Term -> Proposition -> Argument
 
 * Outlining (work down) Interpretation (work up) meets at Proposition and argument.
+
+### Sentence V.S. Propositions
+
+* Sentence+Paragraph -> grammatical units, Propositions+Arguments -> logical units
+  units of thought and knowledge.
+
+* Same difficulties as word and term, language elements and thought elements have
+  multiple to multiple mapping.

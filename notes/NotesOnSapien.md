@@ -446,3 +446,20 @@ Paragraph Summary:
     * modern: amenable to intervention and can be eliminated
     * social poverty: withhold from some people the opportunities available to
       others.
+
+### The Gilgamesh Project
+
+Paragraph Summary:
+
+* Death: most vexing/interesting/important questions
+    * Past faiths:
+        1. inevitable fate
+        2. death gives life meaning, hopes are on the afterlife
+        3. best minds are giving death meaning, not trying to escape/overcome death
+        4. Gilgamesh the most ancient myths: God set death as man's inevitable
+           destiny and man must learn to live with it.
+    * Modern men of science
+        1. Death is a technical problem, and needs technical solution
+            * heart attack/cancer/bacteria, 头疼医头，脚疼医脚
+        2. We don't have solutions for all problems, but best minds are working
+           on them.
