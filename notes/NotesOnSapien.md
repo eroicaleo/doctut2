@@ -463,3 +463,7 @@ Paragraph Summary:
             * heart attack/cancer/bacteria, 头疼医头，脚疼医脚
         2. We don't have solutions for all problems, but best minds are working
            on them.
+    * We can be frank about defeating death now. Even still distant, but we have
+      achieved things inconceivable several centuries ago.
+        * Richard Lionheart died infection, which is simple today
+        * In those days, the only way is amputation and no anesthetics.
