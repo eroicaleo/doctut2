@@ -467,3 +467,14 @@ Paragraph Summary:
       achieved things inconceivable several centuries ago.
         * Richard Lionheart died infection, which is simple today
         * In those days, the only way is amputation and no anesthetics.
+* Facts about improving in human health.
+    * Average human life jumped from 25 to 67
+    * Child mortality: 1/4-1/3 died before adulthood in agriculture.
+        * England, 15% die < 1yr, 1/3 die < 15yr in 17 century. 0.5% die < 1yr,
+          0.7% dir < 15yr nowadays.
+    * Edward I's Wife Queen Eleanor, 30yr gave birth to 16 children. Last one is Edward II.
+      6 live beyond 11yr, only 3 live beyond 40.
+    * Nano-robots open blocked blood vessels, fight viruses.
+* Religions and ideologies
+    * pre-18 century, death and aftermath central to the meaning of life.
+    * post-18 century, Communist/Capitalist/Feminist all lost interest in the afterlife.
