@@ -207,3 +207,6 @@ Argument, Reason
 
 * Same difficulties as word and term, language elements and thought elements have
   multiple to multiple mapping.
+    * Same sentence can be different propositions: "Reading is learning".
+    * One complex sentence can have multiple propositions: one example Machiavelli's The Prince.
+      One compound sentence with at least 3 propositions.

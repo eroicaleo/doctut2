@@ -478,3 +478,25 @@ Paragraph Summary:
 * Religions and ideologies
     * pre-18 century, death and aftermath central to the meaning of life.
     * post-18 century, Communist/Capitalist/Feminist all lost interest in the afterlife.
+
+### The Sugar Daddy (干爹) of Science
+
+Paragraph Summary:
+
+* Science is shaped by religion/politics/economics.
+* Science research costs money, biology/archaeology/economics examples.
+* If no Darwin, another person (Wallace) will eventually make the same discovery.
+  But if no money, it can never happen.
+* Government and business spends money on science research because they believe
+  the investment can help them attain certain political/economic/religion goals.
+    * 16th century, money went to expedition but not children psychology.
+    * mid 20th century, money went to nuclear projects rather than some archaeology.
+* Not scientists but money dictates the science agenda.
+    * resource is limited, the allocation depends on "what is important/good?"
+      question, which can be only answered by religions/ideologies.
+    * biology, cow example, udder disease V.S. mental health.
+        * scientifically equally interesting
+        * diary Industry benefits from udder disease research more and they have
+          more political/economic clout.
+        * mental health research proposal must appeal to value commercial potential
+          of milk and health of human over cows.
