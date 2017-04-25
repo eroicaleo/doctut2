@@ -358,8 +358,6 @@ presented in narrative rather than mathematical form.
 
 ### Knowledge is power
 
-Outline:
-
 Paragraph Summary:
 
 * Knowledge is hard to understand
@@ -481,6 +479,10 @@ Paragraph Summary:
 
 ### The Sugar Daddy (干爹) of Science
 
+Unity:
+Ideologies justify the funding for science research and determines science agenda
+  and what to do with discoveries. It also shaped all science today.
+
 Paragraph Summary:
 
 * Science is shaped by religion/politics/economics.
@@ -500,3 +502,9 @@ Paragraph Summary:
           more political/economic clout.
         * mental health research proposal must appeal to value commercial potential
           of milk and health of human over cows.
+* Science cannot decide what is important and what to do with the discovery:
+    * Genetic knowledge to cure cancer or build superhuman? Liberal and Nazi
+      Government might have different answers.
+* Ideologies justify the funding for science research and determines science agenda
+  and what to do with discoveries. It also shaped all science today.
+* Two forces will be discussed in detail: imperialism and capitalism.
