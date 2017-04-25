@@ -210,3 +210,9 @@ Argument, Reason
     * Same sentence can be different propositions: "Reading is learning".
     * One complex sentence can have multiple propositions: one example Machiavelli's The Prince.
       One compound sentence with at least 3 propositions.
+
+Rule 6: Mark the most important sentences in the book and discover the propositions
+they contain.
+
+Rule 7: Locate the basic arguments in the book by finding them in the connection
+of sentence.
