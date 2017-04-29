@@ -508,3 +508,18 @@ Paragraph Summary:
 * Ideologies justify the funding for science research and determines science agenda
   and what to do with discoveries. It also shaped all science today.
 * Two forces will be discussed in detail: imperialism and capitalism.
+
+## 15 The marriage of empire and science
+
+The story of 1769 expedition, the good part:
+    * Venus transit, Astronomer Charles Green, Botanists Joesph Banks.
+    * enormous quantities of data
+    * James Cook verify vitamin c can cure scurvy
+the bad part:
+    * claimed islands for Britain.
+    * Laid foundation for occupation/conquest/settlement/extermination
+
+Proposition:
+Science expedition protected by military forces? military expedition with a few
+scientist? Half full/empty tank, both are true. scientific revolution and modern
+imperialism are inseparable.

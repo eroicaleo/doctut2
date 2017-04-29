@@ -216,3 +216,9 @@ they contain.
 
 Rule 7: Locate the basic arguments in the book by finding them in the connection
 of sentence.
+
+### Finding the Key sentence
+
+The important sentence to reader the one you don't understand.
+The important sentence of author the major affirmation of denial and the reasons
+he gives.
