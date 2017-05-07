@@ -523,3 +523,20 @@ Proposition:
 Science expedition protected by military forces? military expedition with a few
 scientist? Half full/empty tank, both are true. scientific revolution and modern
 imperialism are inseparable.
+
+### Why Europe
+
+Several questions: why didn't
+
+Paragraph summary
+
+* It's weird that
+
+* First industrial wave was simple but
+  why when Britain leap forward, France, Germany and US quick to follow, Austria,
+  Italy and Russian succeeded in closing the gap, whereas China, Persia, Egypt
+  and the Ottoman lagged behind and failed to close the gap?
+
+My comments:
+
+观念不改变，学到了形式也没法进步。
