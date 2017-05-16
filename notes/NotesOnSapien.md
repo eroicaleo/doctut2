@@ -530,13 +530,45 @@ Several questions: why didn't
 
 Paragraph summary
 
-* It's weird that
-
+* It's weird that an island of Euro conquers an island in south pacific.
+* Before 1750, Asia dominate the world economy. Between 1750 ~ 1850, European
+  conquered Asia. By 1900, dominate world economy.
+* Before 1850, technology gap between Asia and Euro is not big. But why Asia
+  people didn't try to go to Australia.
 * First industrial wave was simple but
   why when Britain leap forward, France, Germany and US quick to follow, Austria,
   Italy and Russian succeeded in closing the gap, whereas China, Persia, Egypt
   and the Ottoman lagged behind and failed to close the gap?
+* Example of rail road: First in Britain in 1820. 30 yrs after, European 20,000,
+  all other world, 2,000. 50 yrs later, Euro 200,000, other 20,000.
+* China and Persian lacked values, myths, judicial apparatus and sociopolitical
+  structures.
+    * Took centuries to form and mature
+    * Cannot be copied and internalised rapidly
+* Two builders metaphor: China with wood and mud, Euro with concrete and steel.
+  Apparent equality before 1750.
+* Modern science and capitalism develop the potential and enable Euro to harness
+  the tech bonanza and dominate the late modern world.
 
 My comments:
 
 观念不改变，学到了形式也没法进步。
+
+### The mentality of conquest
+
+* Modern science owe huge debt to ancient scientific tradition, but it's unique
+  feature take shape only in early modern period, hand in hand with the expansion
+  of European empires. China/Islam/India didn't produce anything that come closer.
+* One important reason to tie science and imperialism other than technology is
+  the same mindset for scientist and explorer: we don't know what's out there and
+  new knowledge can empower us.
+    * Contrary example: Arabs/Romans/Mongols conquer for wealth and power. Not
+      for knowledge.
+    * Supporting example: da Gama Africa/Columbus North America/Magellan around
+      the world all seek new knowledge.
+        * Napoleon conquer Egypt with scholars and found Egyptology.
+        * 1831 Britain exploration south America, 22 yr old Cambridge graduate
+          Darwin jumped at the opportunity and the rest is history.
+* Joke time, Armstrong & Aldrin trained in desert, and a Native American said:
+  "Do not believe a single word these people are telling you. They have come to
+  steal your land".
