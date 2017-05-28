@@ -1,7 +1,10 @@
 
 [z小姐的笔记](https://read01.com/j5NdBm.html)
+
 [为人父的笔记上](http://blog.wenxuecity.com/myblog/10578/201608/1203147.html)
+
 [为人父的笔记下](http://blog.wenxuecity.com/myblog/10578/201608/1205818.html)
+
 [知乎－怎样评价尤瓦尔·赫拉力的《人类简史》](https://www.zhihu.com/question/27767448)
 
 ## 12 The law of religion
@@ -572,3 +575,41 @@ My comments:
 * Joke time, Armstrong & Aldrin trained in desert, and a Native American said:
   "Do not believe a single word these people are telling you. They have come to
   steal your land".
+
+### Empty maps
+
+The difference of maps between Premodern and modern age
+
+* Premodern: no empty space on the map. Unfamiliar areas are filled with details.
+* modern (16th century): empty space on the map.
+    * development of scientific mindset and imperial drive
+    * psychological and ideological breakthrough, clear admission that Europeans
+      were ignorant of large parts of the world.
+* Columbus discovered American (Bahama) on 10/12/1492, but he refuse to admit he
+  discovered new continent.
+* American was named after Amerigo Vespucci, who argued the lands are unknown before.
+    * There is poetic justice in the fact that a quarter of the world and two of
+      its seven continents, are named after a little-known Italian whose sole
+      claim to fame is that he had the courage to say, 'We don't know.'
+* The discovery of America was the foundational event of the scientific revolution.
+    * Taught Europeans to favor present observations over past traditions
+    * Obliged them to search for new knowledges at breakneck speed
+    * Other scholars started to draw their maps with empty spaces
+* Europeans established the 1st truly global empires and knitted the 1st global
+  trade networks.
+* Compare between European explore-and-conquer expeditions and past experience.
+    * So extraordinary but so familiar to overlook.
+
+| European | Past     |
+| :------------- | :------------- |
+| Long distance | Local (Roman example: Rome -> Po valley -> Etruria -> Provence -> Gaul -> Britain) |
+| global venture to unknown area | follow well-beaten commercial or imperial paths (Alexender the Great, so is Monguls I think)|
+
+* Compare between Zheng He and European
+    * Again proved Europe did not enjoy an outstanding technological edge. 
+
+| Zheng He | European     |
+| :------------- | :------------- |
+| 300 ships and 30,000 people | Columbus like 3 ships and 120 sailors (a trio of mosquitoes) |
+| Didn't conquer and colonize | unparalleled and insatiable ambition to explore and conquer |
+| Not rooted in Chinese politics and culture. Discontinued after changing ruling faction. Great fleet was dismantled and knowledge was lost | Caught a fever that drove them to sail to distant lands full of alien culture |
