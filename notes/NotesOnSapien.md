@@ -606,10 +606,27 @@ The difference of maps between Premodern and modern age
 | global venture to unknown area | follow well-beaten commercial or imperial paths (Alexender the Great, so is Monguls I think)|
 
 * Compare between Zheng He and European
-    * Again proved Europe did not enjoy an outstanding technological edge. 
+    * Again proved Europe did not enjoy an outstanding technological edge.
 
 | Zheng He | European     |
 | :------------- | :------------- |
 | 300 ships and 30,000 people | Columbus like 3 ships and 120 sailors (a trio of mosquitoes) |
 | Didn't conquer and colonize | unparalleled and insatiable ambition to explore and conquer |
 | Not rooted in Chinese politics and culture. Discontinued after changing ruling faction. Great fleet was dismantled and knowledge was lost | Caught a fever that drove them to sail to distant lands full of alien culture |
+
+### Invasion from Outer space
+
+Henan Cortes invaded Aztec with about 500 people.
+* declare himself as an emissary and ask an interview with king
+* kept king as captive and command people. In the meantime, become familiar with
+  the country/cities/tribes.
+Take down the Maya with the same strategy with even less men. Learnt from
+previous Aztec examples.
+
+* It doesn't mean countries with tech disadvantage will always loose. Algerian
+  independence/Vietnam war
+    * supported by global anti-colonial network
+    * harness the world's media and public opinion in France
+* Aztec would have a chance if they could manipulate Spanish public opinion and
+  gain assistance from Spain's rivals.
+* The key point is to adopt a truly global vision. (观念／三观太重要了，global vision是一种世界观）

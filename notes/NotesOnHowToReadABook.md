@@ -222,3 +222,4 @@ of sentence.
 The important sentence to reader the one you don't understand.
 The important sentence of author the major affirmation of denial and the reasons
 he gives.
+Some authors use underline or other typographical methods to help readers.
