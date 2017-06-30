@@ -219,7 +219,15 @@ of sentence.
 
 ### Finding the Key sentence
 
-The important sentence to reader the one you don't understand.
-The important sentence of author the major affirmation of denial and the reasons
+* The important sentence to reader the one you don't understand.
+* The important sentence of author the major affirmation of denial and the reasons
 he gives.
-Some authors use underline or other typographical methods to help readers.
+* Some authors use underline or other typographical methods to help readers.
+    * Euclid: axioms, then propositions followed by proof.
+    * Aquinas: First raise questions. Then present objections. Then start with "I answer
+      that"
+* Method to identify important sentence.
+    * Find passage don't understand
+    * The sentence contains the terms might be important.
+    * Proposition must be either Premises or Conclusion. Need to identify sequence.
+* Reading for understanding Should pauses on what puzzles us not what we interest.
