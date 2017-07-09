@@ -630,3 +630,29 @@ previous Aztec examples.
 * Aztec would have a chance if they could manipulate Spanish public opinion and
   gain assistance from Spain's rivals.
 * The key point is to adopt a truly global vision. (观念／三观太重要了，global vision是一种世界观）
+
+### Rare Spiders and Forgotten Scripts
+
+* When Britons conquered India, they launched Great Survey of India to study their
+  history, culture and soils etc.
+    * They discovered Mohenjo-daro civilization, flourished 3000 B.C, none of
+      previous conquers did that.
+* British officer Henry Rawlinson decipher the cuneiform script.
+    * Copy the full inscription even from the most inaccessible parts of the cliff
+      and send back to Europe.
+    * First managed to decipher old Persian, then unlock Elamite and Babylonian.
+* William Jones found the similarity between Indian Sanskrit language and Greek/
+  Latin/German etc and identified the Indo-European family of languages.
+* Europeans learn indian/Persian languages cultures in order to better govern them.
+    * Less than 20,000 Britons rule 300M Indians.
+* Science gave the empires ideological justification, producing knowledge branded
+  them progressive and positive.
+* Neither pure oppression nor progression is the truth, each side can have an
+  encyclopedia of examples.
+    * The science discovery was used as argument for Racism
+    * Racism shifted to Culturism: "Islam is characterized by hierarchical politics
+    fanaticism and misogyny."
+* Conclusion:
+    * Empire benefits from science: without science, no conqure.
+    * Empire provide protection and support in return.
+    * This is only the half story, capitalism.
