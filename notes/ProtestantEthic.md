@@ -24,3 +24,55 @@ to them, not even family, friends, leisure or hobby.
 
 Intensification of avarice: "The greed for gain" can be found among "all sorts and
 conditions of men in all times and in all countries of earth".
+
+# Religion Affiliation and Social Stratification
+
+* Protestants are more likely to be company owner, highly educated skilled workers.
+  Not only in Germany but also in other area.
+* The religion affiliation might be the cause but can also be the results.
+* 16th century, a large number of richest and most developed area turned to Protestants.
+  Why?
+* 16th reformation, an agreeable dominion was replaced by a infinitely burdensome
+  and sever regimentation of organization of believer's life.
+* Catholics control is loose, Calvinism's control is unbearable. But some activist
+  still complained the domination over life is too little.
+* Middle class allowed Puritan tyranny to encompass them and even defend it.
+
+So the logic here is, if people resist the old religion belief, intuitively it's
+because the control is too much. But this case is quite contradictory to intuition.
+
+* Protestants parents enroll their children more to "accelerated" tracks and schools
+  than Catholic parents. Can this be because the greater transfer of wealth across
+  generations by Protestants.
+* After "accelerated", Catholic preferred courses emphasis more on languages,
+  history, philosophy. Protestants take courses for technique/commercial/industry.
+* Catholics remains in craft but Protestants streamed into the factory.
+* age-old rule of thumbs: ethnic or religious minorities, as "dominated" groups
+  standing opposite a "dominate" group, and as a Consequence of their voluntary
+  or involuntary exclusion from influential political positions, have been driven
+  to an especially strong degree into the arena of business. E.g. Jews for 2000 years.
+* Protestants but not the Catholics have a tendency toward *_economic rationalism_* regardless of whether
+  they are dominated or dominate, minority or majority. 所谓经济理性指的是，十六十七世纪，
+  西方世界发展出的一种资本主义精神，其特点是，运用科学的方法，系统地组织劳动力和生产过程，使得
+  生产力不断得到质的提高。
+
+So the logic here is there must be some inner qualities difference between Catholics
+and Protestants other than historical-political situation.
+
+* Superficial consideration: Catholics are more indifferent to material and consumer
+  good from the ascetic feature of their highest ideas.
+    * Germany Protestants criticize Catholics' ascetic way of life.
+    * Catholics reproach Protestants' secularization of very meaning of life.
+    * Popular German maxim: One can either eat well (Protestants) or sleep well (Catholics)
+
+* [YG]: 接下来改如何反驳这种观点呢？
+* Eat well can characterize part of the Protestants in Germany today. In the past,
+  the opposite would characterize the Puritans.
+* [YG]:看来以今非古的换习惯，不只是读红楼梦会有，世界上到处都有。
+* French protestants (Huguenots) retained a severity rather than a nature enjoyment
+  of life. They are the most important carrier of industrial and capitalist development
+  in France.
+* French calvinists are as estranged from the world as the northern Germany Catholics
+  and they are minorities in their country. Lower-status French Catholics are enjoying
+  of life. Lower-status German Protestants immersed in business life.
+* [YG]:按照逻辑来说，自然要举出新教徒不追求世俗生活和享乐。天主教徒也追求世俗生活和享乐。
