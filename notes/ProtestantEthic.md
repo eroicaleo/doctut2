@@ -27,6 +27,8 @@ conditions of men in all times and in all countries of earth".
 
 # Religion Affiliation and Social Stratification
 
+## section 1 & 2
+
 * Protestants are more likely to be company owner, highly educated skilled workers.
   Not only in Germany but also in other area.
 * The religion affiliation might be the cause but can also be the results.
@@ -59,6 +61,8 @@ because the control is too much. But this case is quite contradictory to intuiti
 So the logic here is there must be some inner qualities difference between Catholics
 and Protestants other than historical-political situation.
 
+## section 3
+
 * Superficial consideration: Catholics are more indifferent to material and consumer
   good from the ascetic feature of their highest ideas.
     * Germany Protestants criticize Catholics' ascetic way of life.
@@ -76,3 +80,37 @@ and Protestants other than historical-political situation.
   and they are minorities in their country. Lower-status French Catholics are enjoying
   of life. Lower-status German Protestants immersed in business life.
 * [YG]:按照逻辑来说，自然要举出新教徒不追求世俗生活和享乐。天主教徒也追求世俗生活和享乐。
+
+## section 4
+
+* [YG]:反驳了观点之后总该亮明自己的观点了吧。果然，韦伯发问以亮明观点。
+* Could the contrast between estrangement from the world on the one hand,
+  and earning of living under capitalism on the other hand, be understood actually
+  as implying an inner affinity?
+* [YG]:结下来要论证，先摆个事实，举个例子：
+* high number of persons affiliated with the most spiritual forms of Christian piety
+  came from business-oriented social cycles.
+* [YG]:这个例子看似违反直觉，所以退一步提出反对者可能会有的观点。
+* More spiritually inclined people are less well adapted to vocations in commerce
+  and sales
+* Money and wealth have a vulgar, evil and debasing influence.
+* [YG]:再退一步，来一个似是而非的例子：
+* The conspicuous occurrence that unusually successful capitalist entrepreneurs
+  are sons of ministers can be explained as a reaction against ascetic upbringing.
+* [YG]:该反驳这个观点，以上的观点是简单的二元对立（和欧老师红楼梦的思路一样）。以上的观点无法解释
+  下列事实：
+* The virtuoso business sense combines in the same person, the same group of person,
+  with the most intense forms of piety that penetrate and order the believers' entire life.
+* [YG]:反驳之后，提出进一步观点
+* This combination constitutes precisely the distinguish aspect for whole groups
+  of the historically most important Protestant sects and churches.
+* [YG]:举出各个例子说明这是characteristics and typical：
+* monks and industrialist proselytized into Huguenot church.
+  Spaniards "heresy" (Calvinist from Netherland) "promoted the spirit of commerce".
+
+## section 5
+
+* [YG]:再举出另外两种似是而非的解释说明并不是Calvinist的宗教信仰使得德国，法国的经济迅速发展。
+  观点1:这两个本来经济底子就好。观点2:The powerful effect of exile and the uprooting
+  it entailed from life's customary and traditional relationship.
+* [YG]:观点2更容易被混淆，所以韦伯特意在脚注里聚了例子。
