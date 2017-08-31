@@ -113,4 +113,43 @@ and Protestants other than historical-political situation.
 * [YG]:再举出另外两种似是而非的解释说明并不是Calvinist的宗教信仰使得德国，法国的经济迅速发展。
   观点1:这两个本来经济底子就好。观点2:The powerful effect of exile and the uprooting
   it entailed from life's customary and traditional relationship.
-* [YG]:观点2更容易被混淆，所以韦伯特意在脚注里聚了例子。
+* [YG]:观点2更容易被混淆，所以韦伯特意在脚注里聚了例子。韦伯的例子说波兰的懒姑娘到了德国的劳动营
+  就像是爆发出了无穷无尽的动力。另外意大利劳工也有类似现象。更不用说美国的发展有极大的成都依赖这种
+  现象：Working in a completely unaccustomed and different surrounding breaks through
+  the worker's traditional ways - and this new milieu is the "socializing" force.
+  但是韦伯进一步说，如果对比新英格兰地区，马里兰地区和南方，因为宗教信仰的不同，还是可以看到差异。
+* Not all Protestant denominations exhibited an equally strong effect on capitalism
+  growth. Calvinists are stronger while Lutheranism are weaker.
+* Even more striking is the connection of regimentation of religion and the intense
+  development of business sense. The sects whose "estrangement from life" become
+  as familiar as their wealth.
+    * Quakers in England and USA
+    * Mennonites in Germany and Netherland
+    * Pieties in Germany
+* [YG]:怎么感觉像扫地老僧说的，慈悲之心越重的人，练武功能练的更好。
+
+## section 6
+
+* [YG]:这一节第一段就下了两个结论：
+* 1. The "spirit of work" should not be understood as implying as a natural and
+  uncomplicated "enjoyment of life".
+* 2. Should not be comprehended as "enlightenment". The founders had very little
+  to do with what is called today progress.
+* [YG]:第二点的意思说资本主义精神不是被启发出来的，因为按照教义，很多现在觉得对的事情都不被创始人
+  鼓励。
+* This affinity should not be Protestant spirit's alleged materialistic, anti-ascetic,
+  and enjoyment of life, should focus on purely religion feature. Montesquieu: English "
+  farther than other people in three important ways: in respect to piety, commerce and
+  freedom". Can the last two be attributed to the first one?
+* Must penetrate to the quality characteristics and distinctiveness of the great
+  religious world of thought given to us historically in the diverse form of Christian.
+* [YG]: 所以韦伯接下来要讲一下基督教不同教派的独特个性。
+
+# Chapter 2 The "spirit" of capitalism
+
+* [YG]:这个概念很难用几句话表达清楚。
+* The concept is only meaningful for a specific historical case, which is a complex
+  of relationship in historical reality.
+* The concept must be gradually put together from its single component parts,
+  each of which is taken out of historical reality.
+* [YG]:韦伯要在最后才能给定义。
