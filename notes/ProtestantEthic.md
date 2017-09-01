@@ -153,3 +153,10 @@ and Protestants other than historical-political situation.
 * The concept must be gradually put together from its single component parts,
   each of which is taken out of historical reality.
 * [YG]:韦伯要在最后才能给定义。
+* Our vantage points are not the only possible ones that the historical cases
+  can be analyzed. whatever one understands by a "spirit" of capitalism by no means
+  can or must correspond to that which we will note as essential in our exegesis.
+* [YG]:韦伯这里就强调说人文科学是可以从多个角度来理解的。
+* Weber's methodology: to order reality into tangible, causal connections that are
+  stable and unavoidable of a unique character.
+* [YG]:韦伯说不能从定义概念开始，先从例子开始说。举了富兰克林的一段话。
