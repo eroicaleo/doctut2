@@ -159,4 +159,25 @@ and Protestants other than historical-political situation.
 * [YG]:韦伯这里就强调说人文科学是可以从多个角度来理解的。
 * Weber's methodology: to order reality into tangible, causal connections that are
   stable and unavoidable of a unique character.
-* [YG]:韦伯说不能从定义概念开始，先从例子开始说。举了富兰克林的一段话。
+* [YG]:韦伯说不能从定义概念开始，先从例子开始说。举了富兰克林的一段话。韦伯接着说，富兰克林
+  的话很能体现资本主义精神，并且涵盖资本主义精神的全部。
+* Indeed, rather than simply a common-sense approach to life, a peculiar "ethic"
+  is preached here: it's violation is treated not simply as foolishness but as
+  a sort of forgetfulness of duty. Above all, this distinction stands at the center
+  of the matter. "Business savvy", which is found commonly
+  enough, is here not alone taught; rather an ethos is expressed in this maxim.
+* [YG]: 韦伯说富兰克林这段话的精神在于，认为，挣钱，省钱不仅是一种生活方式，而是一种伦理。如果
+  没做到，那不是聪明和傻的问题，是负责不负责的问题。
+* Jocab Fugger example: "enough wealth and should allow others their chance" is
+  "contemptible timidity", "wanted to simply to make money as long as he could"
+* Fugger's spirit must be distinguished from Franklin's. The spirit of modern
+  capitalism is missing in China, India, Babylon and middle age.
+* [YG]: 韦伯应该说说这种 spirit of modern capitalism 和别的资本主义什么区别吧。
+* [YG]: 接下来，韦伯说Franklin这种关于美德的论述很容易被贴上功利主义的标签，whoever reads
+  in his autobiography, ... will necessarily come to the conclusion that all
+  virtues, according to Franklin, becomes virtues only to the extent that they
+  are useful to the individuals. The surrogate of virtue - namely, its appearance only -
+  is fully adequate wherever the same purpose is achieved.
+  这是功利主义所不可避免的，因为the inseparability of motive and appearance of utilitarianism.
+  所以韦伯说，很多德国人倾向于认为美国人的美德和虚伪，也是这个原因。大概因为美国人的virtue很容易
+  和功利主义混淆在一起，看来和我表姐的印象查不多。
