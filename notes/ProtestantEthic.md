@@ -181,3 +181,27 @@ and Protestants other than historical-political situation.
   这是功利主义所不可避免的，因为the inseparability of motive and appearance of utilitarianism.
   所以韦伯说，很多德国人倾向于认为美国人的美德和虚伪，也是这个原因。大概因为美国人的virtue很容易
   和功利主义混淆在一起，看来和我表姐的印象查不多。
+
+## section 2.1
+
+* Franklin is of candor and trustfulness. He believed the realization can be traced
+  back to a revelation that was designed to guide him to the path of righteousness.
+* [YG]: 以下这点非常重要：
+* The acquisition of money, and more and more money takes places simultaneously
+  with the strictest avoidance of all spontaneous enjoyment of it.
+* Here, people are oriented to acquisition as the purpose of life; acquisition is
+  no longer viewed as a means to the end of satisfying the substantive needs of life.
+  ... Yet this reversal constitutes just as surely a guiding principle of modern
+  capitalism as incomprehension of this new situation which characterizes all
+  who remain untouched by modern capitalism tentacles.
+* [YG]: 韦伯在这一段里以及这一段的一个脚注就说的好，这种行为从“快乐”和“实用”的角度来看是irrational
+  的，在现代人看了简直是违背了人的天性。脚注里说，某人批判这种行为是一种朝着非理性生活的理性努力。
+  韦伯说批判的好呀！Something is never "irrational" in itself but only from a particular
+  "rational" vantage point. For the nonreligious person every religious way of
+  organizing life is irrational; for the hedonist every ascetic organizing of life
+  is "irrational" even if it may be, measured against its ultimate values,
+  a "rationalization".
+* [YG]: 以上精彩。和欧丽娟老师说的不要拿现代人的民主自由的观点去把礼教，儒家思想批的一文不值。
+  真理的对立面也可以是真理。
+* [YG]: 我有个问题，是不是只有以上这一点构成了modern capitalism和之前的资本主义的区别？这一
+  点看起来很容易理解。。。
