@@ -205,3 +205,19 @@ and Protestants other than historical-political situation.
   真理的对立面也可以是真理。
 * [YG]: 我有个问题，是不是只有以上这一点构成了modern capitalism和之前的资本主义的区别？这一
   点看起来很容易理解。。。
+* As long as it is carried out in a legal manner, acquisition of money in the
+  modern economic order is the result and manifestation of competency and
+  proficiency in a vocational calling. And the competency and proficiency is
+  the actual alpha and omega of Franklin's morality.
+* [YG]: 之前描述的应该算是资本主义精神的表象，那以上这一段就把它联系到一个religious idea,也就是
+  vocational calling.
+* [YG]: 接下来这一段就是说"duty to have vocational calling"
+    * 首先是重要性：characteristics of social ethics of modern capitalism culture,
+      even of constitutive significance.
+    * 接着解释一番：notion of duty that individuals ought to experience, and do,
+      vis-a-vis, the contents of the vocational activities.
+    * 进一步阐述其特点：regardless of particular nature of the activities and
+      regardless, especially of whether this activity seems to involve nothing
+      more than the simply utilization of their capacity for labor or their
+      treatment of it as only a material possession.
+* [YG]: 问题又来了，这种"vocational calling"好像和acquisition of money没什么关系吗？
