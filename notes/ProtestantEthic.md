@@ -186,7 +186,7 @@ and Protestants other than historical-political situation.
 
 * Franklin is of candor and trustfulness. He believed the realization can be traced
   back to a revelation that was designed to guide him to the path of righteousness.
-* [YG]: 以下这点非常重要：
+* YG: 以下这点非常重要：
 * The acquisition of money, and more and more money takes places simultaneously
   with the strictest avoidance of all spontaneous enjoyment of it.
 * Here, people are oriented to acquisition as the purpose of life; acquisition is
