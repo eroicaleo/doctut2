@@ -202,7 +202,8 @@ and Protestants other than historical-political situation.
   is "irrational" even if it may be, measured against its ultimate values,
   a "rationalization".
 * [YG]: 以上精彩。和欧丽娟老师说的不要拿现代人的民主自由的观点去把礼教，儒家思想批的一文不值。
-  真理的对立面也可以是真理。
+  真理的对立面也可以是真理。欧丽娟老师引菜根谭：“淡泊之士，必為濃艷者所疑；檢飾之人，多為放肆者
+  所忌。君子處此，固不可少變其操履，亦不可太露其鋒芒。”放在这里也蛮合适的。
 * [YG]: 我有个问题，是不是只有以上这一点构成了modern capitalism和之前的资本主义的区别？这一
   点看起来很容易理解。。。
 * As long as it is carried out in a legal manner, acquisition of money in the
@@ -221,3 +222,13 @@ and Protestants other than historical-political situation.
       more than the simply utilization of their capacity for labor or their
       treatment of it as only a material possession.
 * [YG]: 问题又来了，这种"vocational calling"好像和acquisition of money没什么关系吗？
+* It is surely not the case that the idea of duty in one's vocational calling
+  could grow only on the soil of modern capitalism. And can be traced to a period
+  prior to modern capitalism.
+* [YG]: 接下来说，现代的人生于这种制度下，已经不自觉地需要遵守资本主义的伦理规范(ethical maxim)，
+  要不然就会被时代淘汰，工厂倒闭，工人失业。
+* Rather, the capitalist economic order of today is a vast cosmos into which a
+  person is born. It simply exists, to each person, as a factually unalterable
+  casing in which he or she must live. To the extent that people are interwoven
+  into the context of capitalism's market forces, the norms of its economic action
+  are forced onto them.
