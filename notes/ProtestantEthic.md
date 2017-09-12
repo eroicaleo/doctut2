@@ -232,3 +232,15 @@ and Protestants other than historical-political situation.
   casing in which he or she must live. To the extent that people are interwoven
   into the context of capitalism's market forces, the norms of its economic action
   are forced onto them.
+* YG: 接下来这一段，韦伯思路清晰，现代资本主义似乎是被历史进程所选择的。那么既然要被选择，那么
+  符合现代资本主义的生活方式，行为习惯乃至思想概念，就必须先产生并且存在着，要不怎么选？韦伯说
+  资本主义创造了它所需要的人。这是不是有点时势造英雄的味道。摘抄如下：
+* Thus through a process of economic selection, the capitalism that today dominates
+  economic life socializes and creates the economic functionaries that it needs,
+  both owners of business and workers. ... In order for a particular organized
+  life and a particular conception of a vocational calling adapted to the uniqueness
+  of modern capitalism to be "selected", obviously they must have originated among
+  , and as a mode of thinking be carried by, groups of persons rather than simply
+  by isolated individuals.
+
+## section 2.2
