@@ -226,7 +226,11 @@ and Protestants other than historical-political situation.
   could grow only on the soil of modern capitalism. And can be traced to a period
   prior to modern capitalism.
 * YG: 接下来说，现代的人生于这种制度下，已经不自觉地需要遵守资本主义的伦理规范(ethical maxim)，
-  要不然就会被时代淘汰，工厂倒闭，工人失业。
+  要不然就会被时代淘汰，工厂倒闭，工人失业。摘抄如下：
+* Naturally it would be argued even less that, under today's capitalism, the
+  subjective acquisition of these ethical maxim by capitalism's particular
+  social carriers (such as business persons or workers in modern capitalist
+  company) constitutes a condition for capitalism's further existence.
 * Rather, the capitalist economic order of today is a vast cosmos into which a
   person is born. It simply exists, to each person, as a factually unalterable
   casing in which he or she must live. To the extent that people are interwoven
@@ -234,7 +238,8 @@ and Protestants other than historical-political situation.
   are forced onto them.
 * YG: 接下来这一段，韦伯思路清晰，现代资本主义似乎是被历史进程所选择的。那么既然要被选择，那么
   符合现代资本主义的生活方式，行为习惯乃至思想概念，就必须先产生并且存在着，要不怎么选？韦伯说
-  资本主义创造了它所需要的人。这是不是有点时势造英雄的味道。摘抄如下：
+  资本主义创造了它所需要的人。这是不是有点时势造英雄的味道。或者，天下大势，浩浩荡荡，顺之者昌，
+  逆之者亡。摘抄如下：
 * Thus through a process of economic selection, the capitalism that today dominates
   economic life socializes and creates the economic functionaries that it needs,
   both owners of business and workers. ... In order for a particular organized
@@ -242,5 +247,16 @@ and Protestants other than historical-political situation.
   of modern capitalism to be "selected", obviously they must have originated among
   , and as a mode of thinking be carried by, groups of persons rather than simply
   by isolated individuals.
+* YG: 我的理解，以上两段的是说，人们先具有了资本主义精神，接着行程了特定的资本主义社会和经济秩序，
+  然后，反过来了这样的社会和经济秩序再来创造和选择符合它的人。
 
 ## section 2.2
+
+* YG: 第一段，探讨资本主义精神和资本主义经济孰因孰果的问题。历史唯物主义认为，资本主义经济先于
+  资本主义精神。韦伯则用新英格兰地区和南方各州做对比。新英格兰地区虽然经济不发达，那里的人们却
+  具有本书要讨论的资本主义精神。南方则正好相反。摘抄如下：
+* In contrast, the New England colonies were called into existence for religious
+  reasons by ministers and seminary graduates, together with small-scale merchants,
+  craftsmen, and farmers. Thus, in this case at any rate, the causal relationship
+  between ideas and economic situations lies in the direction opposite from that
+  which would be postulated by the "materialist" argument.
