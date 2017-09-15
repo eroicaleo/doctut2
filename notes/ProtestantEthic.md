@@ -239,7 +239,8 @@ and Protestants other than historical-political situation.
 * YG: 接下来这一段，韦伯思路清晰，现代资本主义似乎是被历史进程所选择的。那么既然要被选择，那么
   符合现代资本主义的生活方式，行为习惯乃至思想概念，就必须先产生并且存在着，要不怎么选？韦伯说
   资本主义创造了它所需要的人。这是不是有点时势造英雄的味道。或者，天下大势，浩浩荡荡，顺之者昌，
-  逆之者亡。摘抄如下：
+  逆之者亡。我又想到了《人类简史》里说的意识形态是会传染的，它们先微生物一样只顾着自己扩张。
+  摘抄如下：
 * Thus through a process of economic selection, the capitalism that today dominates
   economic life socializes and creates the economic functionaries that it needs,
   both owners of business and workers. ... In order for a particular organized
@@ -260,3 +261,15 @@ and Protestants other than historical-political situation.
   craftsmen, and farmers. Thus, in this case at any rate, the causal relationship
   between ideas and economic situations lies in the direction opposite from that
   which would be postulated by the "materialist" argument.
+* YG: 这一段不难，说了资本主义精神的萌芽时期，像富兰克林这样的想法是被禁止的。这也是欧丽娟老师
+  一再在红楼梦课程中教育我们的，每个时代的价值观都不一样。要理解古人，一定要回到古人的时代背景去
+  理解。摘抄如下：
+  The youth of these ideas - the spirit of capitalism ... and its unfolding does
+  not proceed in the manner of the blossoming of flower. The capitalist spirit,
+  ... become prominent only after a difficult struggle against a world of hostile
+  power. The frame of mind apparent in the cited passages from B.F. that met with
+  the approval of an entire people would have been proscribed in the ancient world,
+  as well as in the Middle Age, for it would have been viewed as an expression of
+  filthy greed and a completely undignified character.
+* YG: 接下来这一段，韦伯解释说，对现代资本主义精神的敌意并不是因为以前的人没有那么贪婪，对金钱
+  没有那么渴望。如果用贪婪和对金钱的渴望作为划分标准，那么就无法区分资本家和另外一些贪婪的人的区别了。
