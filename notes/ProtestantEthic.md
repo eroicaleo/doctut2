@@ -273,3 +273,17 @@ and Protestants other than historical-political situation.
   filthy greed and a completely undignified character.
 * YG: 接下来这一段，韦伯解释说，对现代资本主义精神的敌意并不是因为以前的人没有那么贪婪，对金钱
   没有那么渴望。如果用贪婪和对金钱的渴望作为划分标准，那么就无法区分资本家和另外一些贪婪的人的区别了。
+* YG: 再接下来这一段，韦伯对比意大利资本主义的落后和德国的先进，以此说明，若资本家一味贪婪，工人们
+  也不勤勉努力，没有人遵守一定的伦理规范，这样是发展不出现代资本主义的。所以“对金钱的本能追求”
+  并不是资本主义精神发展的决定因素。摘抄如下：
+  The universal sway of absolute unscrupulousness in establishing one's own self-interest
+  as the legitimate operating assumption for the pursuit of money has been
+  specifically characteristic of precisely those countries where the unfolding of
+  a middle class capitalism has remained "backward".
+  The absence of conscientiousness among workers in such nations (such as Italy
+  in comparison to Germany) has been, and to a certain extent still is, the major
+  obstacle to the unfolding of modern capitalism, as every factory employer knows.
+  Modern capitalism has as little use for easygoing persons as laborers as it has
+  for the businessman fully without scruples in running of his company, as we
+  already have learned from Franklin.
+  an "instinct" to pursue money cannot be said to be a decisive issue.
