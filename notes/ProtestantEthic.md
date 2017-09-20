@@ -287,3 +287,24 @@ and Protestants other than historical-political situation.
   for the businessman fully without scruples in running of his company, as we
   already have learned from Franklin.
   an "instinct" to pursue money cannot be said to be a decisive issue.
+* YG: 接下来这一段，韦伯说对他人或者别国的资源地无羞耻地掠夺，自古就有。所以也不是现代资本主义
+  的特征。摘抄如下：
+  The auri sacra fames is as old as the history of humanity known to us. We shall
+  see that those who without reservation surrendered themselves to it as an instinct,
+  the Dutch captain, for example, who "would sail through hell for profit, even
+  if he burns his sails" -  were in no way representatives of that frame of mind
+  from which the specifically modern capitalist "spirit" burst forth as a mass
+  phenomenon.
+* YG: 以资本来谋求利润的经济形式古已有之，与之并存的是一些富于冒险精神的人。他们敢于蔑视一切既有
+  的伦理规范。这里我想韦伯想要把这些人和Franklin这样的现代资本家区分开来，因为这些人，their
+  absolute and willfully ruthless striving for profit often stood hard and fast
+  alongside a strict adherence to age-old tradition. 我的问题是什么是age-old tradition?
+  是上一段说的海盗，或者侵略行为吗？接下来韦伯说，as these traditions began to disintegrate,
+  a more or less broad ranging expansion of an unrestrained quest for gain took
+  place and intruded even into the core of social group. 我的问题是什么时候旧传统就
+  分崩离析了？
+* YG: 韦伯说这样的 An ethical affirmation and shaping of this new situation did not
+  follow. Rather, this unrestrained quest for gain was tolerated as a new reality and
+  was treated with ethical indifference or as a disagreeable, but unavoidable
+  presence.
+* YG:
