@@ -295,6 +295,13 @@ and Protestants other than historical-political situation.
   if he burns his sails" -  were in no way representatives of that frame of mind
   from which the specifically modern capitalist "spirit" burst forth as a mass
   phenomenon.
+  This is what matters here. Acquisition unrestrained by internally binding norms
+  has existed in all periods of history; indeed, it has existed wherever its
+  expression was not circumscribed. In relationships across tribes and among
+  peoples fundamentally unknown to each other, as well as in warfare and piracy,
+  trade unbounded by norms has been the rule. A double standard prevailed in
+  such situations: practices considered as taboo "among" brothers were permitted
+  with "outsiders".
 * YG: 以资本来谋求利润的经济形式古已有之，与之并存的是一些富于冒险精神的人。他们敢于蔑视一切既有
   的伦理规范。这里我想韦伯想要把这些人和Franklin这样的现代资本家区分开来，因为这些人，their
   absolute and willfully ruthless striving for profit often stood hard and fast
@@ -307,4 +314,14 @@ and Protestants other than historical-political situation.
   follow. Rather, this unrestrained quest for gain was tolerated as a new reality and
   was treated with ethical indifference or as a disagreeable, but unavoidable
   presence.
-* YG:
+* YG: 接下来韦伯说，这样的toleration是前现代资本主义的一般特征，也是阻碍资本主义精神发展的主要
+  障碍。在这里韦伯第一次直接地概述了一下现代资本主义。所以我就全篇摘录了。
+  This was the normal position taken by all ethnical teachings. Furthermore,
+  and of more essential importance, this position characterized the practical
+  behavior of the average person in the epoch prior to modern capitalism - that
+  is, before a rational use of capital in a managed manner and a systematic
+  capitalist organization of work became the dominate forces determining the
+  orientation of economic activity. However, this toleration of the unrestrained
+  quest for gain constituted everywhere one of the strongest inner barrier against
+  the adaptation of persons to the preconditions of an organized, mid-class
+  capitalist economy.
