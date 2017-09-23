@@ -203,7 +203,7 @@ and Protestants other than historical-political situation.
   a "rationalization".
 * YG: 以上精彩。和欧丽娟老师说的不要拿现代人的民主自由的观点去把礼教，儒家思想批的一文不值。
   真理的对立面也可以是真理。欧丽娟老师引菜根谭：“淡泊之士，必為濃艷者所疑；檢飾之人，多為放肆者
-  所忌。君子處此，固不可少變其操履，亦不可太露其鋒芒。”放在这里也蛮合适的。
+  所忌。君子處此，固不可少變其操履，亦不可太露其鋒芒。”放在这里也蛮合适的。＃横向读书＃
 * YG: 我有个问题，是不是只有以上这一点构成了modern capitalism和之前的资本主义的区别？这一
   点看起来很容易理解。。。
 * As long as it is carried out in a legal manner, acquisition of money in the
@@ -303,7 +303,13 @@ and Protestants other than historical-political situation.
   such situations: practices considered as taboo "among" brothers were permitted
   with "outsiders".
 * YG: 以资本来谋求利润的经济形式古已有之，与之并存的是一些富于冒险精神的人。他们敢于蔑视一切既有
-  的伦理规范。这里我想韦伯想要把这些人和Franklin这样的现代资本家区分开来，因为这些人，their
+  的伦理规范。
+  As an "adventure", capitalist acquisition has found a place in all those
+  economies that have known valuable objects as quasi-money forms of exchange
+  and offered the chance to utilize them for profit. ... Coexisting everywhere
+  with these external modes of economic organization were persons with an
+  adventurous frame of mind - who mocked all ethical restrictions on action.
+* YG: 这里我想韦伯想要把这些人和Franklin这样的现代资本家区分开来，因为这些人，Moreover their
   absolute and willfully ruthless striving for profit often stood hard and fast
   alongside a strict adherence to age-old tradition. 我的问题是什么是age-old tradition?
   是上一段说的海盗，或者侵略行为吗？接下来韦伯说，as these traditions began to disintegrate,
@@ -314,6 +320,9 @@ and Protestants other than historical-political situation.
   follow. Rather, this unrestrained quest for gain was tolerated as a new reality and
   was treated with ethical indifference or as a disagreeable, but unavoidable
   presence.
+* YG: 我们就看看孔子如何对待获取财富。韦伯的这段话，点评的很好呀。＃横向读书＃
+  《述而》：富而可求也，虽执鞭之士，吾亦为之。如不可求，从吾所好。
+  《述而》：不义而富且贵，于我如浮云。
 * YG: 接下来韦伯说，这样的toleration是前现代资本主义的一般特征，也是阻碍资本主义精神发展的主要
   障碍。在这里韦伯第一次直接地概述了一下现代资本主义。所以我就全篇摘录了。
   This was the normal position taken by all ethnical teachings. Furthermore,
@@ -325,3 +334,14 @@ and Protestants other than historical-political situation.
   quest for gain constituted everywhere one of the strongest inner barrier against
   the adaptation of persons to the preconditions of an organized, mid-class
   capitalist economy.
+* YG: 本节最后一段摘抄：
+  In the sense of a certain norm-bound style of life that has crystallized in the
+  form of an "ethic," the spirit of capitalism has had to struggle primarily against
+  a specific opponent: that type of experiencing, perceiving and ordering of
+  the world we can denote **economic traditionalism**.
+* YG: 本节小节：韦伯从先有鸡还是先有蛋的问题说起，举了北美殖民地的例子说明，意识形态先于经济形式的
+  发展。接着，韦伯指出意识形态的发展并不是一帆风顺，是和传统的意识形态经行了一番斗争之后才建立
+  起来的。传统的伦理只需对于instinct to pursue money/auri sacra fames/unrestrained
+  quest for gain总是持负面态度。现代资本主义很容易被和这样的行为画上等号，但其实它们古已有之，
+  所以并不能把这些行为当作是现代资本主义的价值观。最后一段承上启下，指出现代资本主义的最主要的对手
+  是经济传统主义。我实在又忍不住要感叹：三观太重要了。思想决定行动。。。
