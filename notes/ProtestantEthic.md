@@ -239,7 +239,7 @@ and Protestants other than historical-political situation.
 * YG: 接下来这一段，韦伯思路清晰，现代资本主义似乎是被历史进程所选择的。那么既然要被选择，那么
   符合现代资本主义的生活方式，行为习惯乃至思想概念，就必须先产生并且存在着，要不怎么选？韦伯说
   资本主义创造了它所需要的人。这是不是有点时势造英雄的味道。或者，天下大势，浩浩荡荡，顺之者昌，
-  逆之者亡。我又想到了《人类简史》里说的意识形态是会传染的，它们先微生物一样只顾着自己扩张。
+  逆之者亡。我又想到了《人类简史》里说的意识形态是会传染的，它们先微生物一样只顾着自己扩张。＃横向读书＃
   摘抄如下：
 * Thus through a process of economic selection, the capitalism that today dominates
   economic life socializes and creates the economic functionaries that it needs,
@@ -345,3 +345,26 @@ and Protestants other than historical-political situation.
   quest for gain总是持负面态度。现代资本主义很容易被和这样的行为画上等号，但其实它们古已有之，
   所以并不能把这些行为当作是现代资本主义的价值观。最后一段承上启下，指出现代资本主义的最主要的对手
   是经济传统主义。我实在又忍不住要感叹：三观太重要了。思想决定行动。。。
+* YG: 本节item: unrestrained quest for gain/unrestrained acquisition/auri sacra fames
+  internally binding norms/norm-bound
+
+## section 2.3
+
+* YG: 按件计酬是雇主刺激劳动强度的一种手段。例如，农忙时间就需要加大劳动强度。
+* YG: 雇主希望按件计酬能其作用，但结果事与愿违。工人们得到了与之前相当的收入之后，立即停止了工作。
+      摘抄本节后两段：
+      The opportunity of earning more appealed to him less than the idea of working
+      less. He did not ask: "If I produce as much as possible, how much money will
+      I earn each day?" Rather, he formulated the question differently: "How long
+      must I work in order to earn the amount of money - 21/2 marks - I have earned
+      until now that has fulfilled my traditional economic needs?"
+      This example illustrates the type of behavior that should be called economic
+      traditionalism. People do not wish "by nature" to earn more and more money.
+      Instead, they wish simply to live, and to live as they have been accustomed
+      and to earn as much as is required to do so. Whenever modern capitalism began
+      its task of increasing the "productivity" of human work by increasing its
+      intensity, it confronted, in the pre-capitalism economy, an infinitely obdurate
+      barrier in the form of this definition of work. Even today modern capitalism
+      everywhere encounters economic traditionalism the more backward (from the
+      perspective of modern capitalism) are the very laborers it depends on.
+* YG: 
