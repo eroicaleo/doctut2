@@ -367,4 +367,32 @@ and Protestants other than historical-political situation.
       barrier in the form of this definition of work. Even today modern capitalism
       everywhere encounters economic traditionalism the more backward (from the
       perspective of modern capitalism) are the very laborers it depends on.
-* YG: 
+* YG: 其实把这一段用在别的事情上也可以，比如学习。有的人学习只是为了应付考试，考过了，就不学了。
+      好像经济传统主义一样。有的人想要不断地学习，学习本身就是目的。这样的人我们称之为学霸。
+      好像现代资本主义对于赚钱一样。中国传统里就有活到老，学到老，学海无涯苦作舟的说法。
+      另一方面，我觉得资本主义要发展，一定要激发人们的欲望。让人们一直觉得自己过得不够好，这不是
+      accustomed的生活。
+
+## section 2.4
+
+* YG: 这一段：既然提高工资不能换来更高的产出，那看起来降低工资就是更可行的方法。而且降低工资会
+      导致更高的利润。
+* YG: 这一段：历史上的资本家有不少都运用这样的手段。摘抄如下：
+      In other words, lower wages were believed to enhance worker productivity.
+      As Pieter de la Court contended "People work only because, and only so long
+      as, they are poor."
+* YG: 让我想到了中国，中国人的工作热情和勤奋程度现在应该算是世界领先了。要不然经济怎么发展的这么
+      好呢？比如政府把房价抬高，这样就变相让中国人变穷了。所以中国人民都工作都特别努力？
+* YG: 这一段：资本主义的发展需要有剩余的劳动力。但是过多的剩余劳动力只能导致量变，尤其在劳动强度
+      大的工作中，这是没有办法导致质变的。
+* YG: 这一段：韦伯举例，如果工资低到无法维持健康，那在农业上的收割效率只会越来越差。
+* YG: 这一段：近一步指出，需要更高专注力和创造力的工种更加不可能靠着低工资的工人来做。一来没有动力
+      二来没有能力。本段最后指出，需要一种责任心来完成这些艰巨的工作。全段摘抄：
+      This holds in these situation for the simple reason that a developed sense
+      of responsibility is absolutely indispensable. In addition, it is necessary
+      to have a frame of mind that emancipates the worker, at least during the
+      workday, from a constant question: With a maximum ease and comfort and a
+      minimum of productivity, how is the accustomed wage nonetheless to be
+      maintained? This frame of mind, if it manages to uproot the worker from
+      this concern, motives labor as if labor were an absolute end in itself, or
+      a "calling".
