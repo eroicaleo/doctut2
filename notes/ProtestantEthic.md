@@ -388,6 +388,13 @@ and Protestants other than historical-political situation.
 * YG: 这一段：韦伯举例，如果工资低到无法维持健康，那在农业上的收割效率只会越来越差。
 * YG: 这一段：近一步指出，需要更高专注力和创造力的工种更加不可能靠着低工资的工人来做。一来没有动力
       二来没有能力。本段最后指出，需要一种责任心来完成这些艰巨的工作。全段摘抄：
+      Even considered purely from the business point of view, lower wages fail,
+      as a pillar of modern capitalist development, in all those situations where
+      goods are produced that require any type of skilled labor, where expensive
+      and easily damaged machines are used, and in general where a significant
+      degree of focused concentration and initiative is demanded.
+      In these circumstances, the lower wage does not prove economically feasible,
+      and its effect leads to the opposite of all that were originally intended.
       This holds in these situation for the simple reason that a developed sense
       of responsibility is absolutely indispensable. In addition, it is necessary
       to have a frame of mind that emancipates the worker, at least during the
@@ -396,3 +403,66 @@ and Protestants other than historical-political situation.
       maintained? This frame of mind, if it manages to uproot the worker from
       this concern, motives labor as if labor were an absolute end in itself, or
       a "calling".
+* YG: 这一段指出，这种三观不是我们的基因里就有的。而是人们社会化的结果。这也是人类简史里说的一种
+      imaged order。把工作看成是自己的责任的人实在是不多的。
+      Yet such a frame of mind is not inherently given in the nature of the species.
+      Nor can it be directly called forth by high or low wages. Rather, it is
+      the product of a long and continuous process of socialization. Today,
+      sitting triumphantly dominate, modern capitalism is able to recruit its
+      workers in all industrial nations and in all the branches of industry in
+      these nations relative easily. Yet in the past recruitment was everywhere
+      an extremely difficult problem. Even today, without the assistance of a
+      powerful ally, modern capitalism does not always reach the goals that
+      accompanied it in the period of its early development.
+
+## section 2.5
+
+* YG: 这一节举德国妇女的例子。德国妇女不善于工作，体现在如下几点：
+    * 不愿意放弃旧有的工作习惯。
+    * 不愿意采用新的劳动形式。
+    * 不愿意使用理性思维。
+* YG: 但是虔敬派妇女可以算是例外。
+* 摘抄如下：后三段
+* An almost universal complaints among employers concerns the absolute incapacity
+  and unwillingness of women workers to give up customary and once mastered modes
+  of work in favor of other, more practical work techniques, their inability to
+  adapt to new forms of labor, to learn, and to focus the mind's reasoning
+  capacities, or even to use it. This view holds in particular for German young
+  women. Efforts to organize work in a simpler and, especially, more productive
+  manner come up against complete incomprehension. Increases in piece-rate (designed
+  to raise production) strikes against the wall of habit without the least effect.
+* This situation is often different only with the young women from a specific
+  religious background, namely for women from the Pietist homes (not an unimportant
+  point for our reflection). One often hears, and it is confirmed by occasionally
+  statistic studies, that by far the most favorable prospect for socialization
+  into the rhythms of the workplace exist among young women in this category.
+  The capacity to focus one's thoughts in addition to an absolute central element - the
+  capacity to feel an "internally dedication to work", are found here unusually
+  frequently. Indeed, these qualities combine with an organized approach to the
+  economic activities that, on one hand calculates earnings and their maximum
+  potential and, on the other hand characterized by a dispassionate self-control
+  and moderation - all of which increase the productive capacity to an unusual degree.
+* The foundation for perceiving the work as an end in itself, or a calling as
+  modern capitalism requires, was here developed in a most propitious manner.
+  The prospect of shattering the leisurely rhythms of economic traditionalism
+  as a consequence of religious socialization is at its highest.
+
+## Conclusion to this chapter
+
+* section 2.4 and 2.5 的重点是说：labors are an absolute end in itself.
+
+* 资本主义精神该有的：
+    * 2.4 As if labor were the absolute end in itself. an developed sense of
+          responsibility.
+    * 2.5 The capacity to focus one's thoughts in addition to an absolute central element - the
+    capacity to feel an "internally dedication to work", are found here unusually
+    frequently. Perceiving work as an end in itself.
+* 资本主义精神不该有的：
+    * 2.4 "With a maximum ease and comfort and a
+    minimum of productivity, how is the accustomed wage nonetheless to be
+    maintained?"
+    * 2.5 absolute incapacity
+      and unwillingness of women workers to give up customary and once mastered modes
+      of work in favor of other, more practical work techniques, their inability to
+      adapt to new forms of labor, to learn, and to focus the mind's reasoning
+      capacities, or even to use it. Wall of habit. leisurely rhythms.
