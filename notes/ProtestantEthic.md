@@ -490,6 +490,23 @@ and Protestants other than historical-political situation.
   its most adequate form in modern capitalist company and on the other hand because
   the modern capitalist company discover in this frame of mind the motivating forces -
   or spirit - most adequate to it.
+* YG: 举例说明资本主义的典型都不是当时大资本家，而是接着新工业从中产阶级中崛起的新来者。
+* Of course, it may happen that "spirit" and "form" do not come together at all.
+  The "capitalist spirit" permeated BF at a time when the organization of his
+  publishing business did not vary from the older, traditional form typical in
+  a handicraft shop. We shall also see that, on the threshold of the modern epoch,
+  the capitalist entrepreneurs of the commercial aristocracy were by no means
+  exclusively and predominately the social carriers of that frame of mind here
+  designated as the "spirit of capitalism." On the contrary, the upwardly mobile
+  strata of the industrial middle classes were far more so. Similarly, in the
+  nineteenth century, the classical representatives of this spirit were the
+  Manchester or Rhineland-Westphalia upstart newcomers to wealth from modest
+  circumstances, rather than the aristocratic gentlemen from Liverpool and Hamburg
+  whose commercial fortunes were inherited from the distant past. Matters were
+  not different even as early as the sixteenth century. The founders of the new
+  industries of this period were predominately upstart newcomers.
+* YG：最后一段说明，像银行或者外贸这样的行业深深植根于经济传统主义，所以没法被资本主义精神撼动。
+  更多的影响是发生在零售业。
 
 ## Conclusion to this chapter
 
