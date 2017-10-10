@@ -447,6 +447,50 @@ and Protestants other than historical-political situation.
   The prospect of shattering the leisurely rhythms of economic traditionalism
   as a consequence of religious socialization is at its highest.
 
+## section 2.6
+
+* YG: 这一段承上启下，说我们是不是该考虑一下资本主义和宗教信仰的关系呢？比如卫理公会被工友破坏，
+  不能理解成是因为仅仅只是宗教原因。
+* This analysis derived from early twentieth capitalism has indicated to us yet
+  again that it would be simply worthwhile to ask how the connections between
+  people's capacity to adapt to modern capitalism on the one hand, and their
+  religious belief on the other hand, could have been formulated during the youth
+  of modern capitalism. That these connections exist in a similar manner earlier
+  can be concluded from many fragmented observations. For example, the ostracism
+  and persecution that Methodist workers in the eighteenth century encountered from their fellow
+  workers, as implied in the frequent reports of the destruction of their tools,
+  can in no way be understood exclusively and predominately in terms of their
+  religious eccentrics (of that England have seen quite many, and of an even more
+  striking character). Rather, their unambivalent "readiness to work", as one would
+  say today, was the issue here.
+
+## section 2.7
+
+* YG: 这一节用来先批驳Sombart的观点。他认为经济史的发展就是由两种动力主导的："satisfaction
+  of needs" and "acquisition"。韦伯认为Sombart的"acquisition"不足以用来描述现代资本主义。
+  因为很多带有资本主义性质的经济形式也同时具有韦伯所谓的经济传统主义的特点。
+* For example, the business operated by private employer on the basis of the
+  transformation of capital (that is, money, goods with monetary value) into
+  profit through the purchase of means of production, and the sale of product,
+  that is business undoubtedly capable of being organized as capitalist, can retain
+  the character of traditionalism. This situation, even in the course of modern
+  development of economy, has not been simply the exception. Instead, it has been
+  the rule despite the continuously reappearing interruption and intrusion from
+  a 'spirit of capitalism' that has repeatedly rejuvenated and become ever more
+  powerful.
+* YG: 接下来韦伯说，资本主义经济形式和资本主义精神不是"lawful"的关系，而是"adequate"的关系。
+  大概就是经济形式离了精神也能发展，就是比较慢。但这两者一拍即合。
+* Rather than being in 'lawful' dependency, the capitalist forms of an economy
+  and the spirit in which it is operated in fact exist generally in a less determinant
+  relationship, namely, one of 'adequacy' to each other. Nonetheless, if we
+  provisionally employ the phrase 'spirit of modern capitalism' to refer to the
+  particular frame of mind that, as in the example of Benjamin Franklin, strives
+  systematically and rationally in a calling for profit, then we are doing so for
+  historical reasons. We do so on the one hand because the frame of mind finds
+  its most adequate form in modern capitalist company and on the other hand because
+  the modern capitalist company discover in this frame of mind the motivating forces -
+  or spirit - most adequate to it.
+
 ## Conclusion to this chapter
 
 * section 2.4 and 2.5 的重点是说：labors are an absolute end in itself.
@@ -466,3 +510,4 @@ and Protestants other than historical-political situation.
       of work in favor of other, more practical work techniques, their inability to
       adapt to new forms of labor, to learn, and to focus the mind's reasoning
       capacities, or even to use it. Wall of habit. leisurely rhythms.
+*
