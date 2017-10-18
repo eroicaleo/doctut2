@@ -508,6 +508,27 @@ and Protestants other than historical-political situation.
 * YG：最后一段说明，像银行或者外贸这样的行业深深植根于经济传统主义，所以没法被资本主义精神撼动。
   更多的影响是发生在零售业。
 
+## section 2.8
+
+* YG: 这一节就要参考大染坊里陈寿亭和周掌柜了。简直说的全中。主要就是还是说了有了资本主义经济形式并
+  不能代表具有现代资本主义精神。摘抄如下：
+* Business hours were typically moderate - five or six hours a day and occasionally
+  considerable less, but sometimes more if a busy season existed. Earnings although
+  small, were adequate to maintain a respectable standard of living, and in good
+  times, to permit the saving of small sums. In general, rooted in a strong
+  consensus regarding basic business practices, among competitors a relatively
+  high compatibility existed. There was time for long daily visit to a social club,
+  and occasionally, also early evening drinks and long talks with a circle of friends.
+  A comfortable pace of life was the order of the day.
+* If one looked simply at the business character of the employer, at the indispensability
+  of the movement of capital and its turnover within the business, and finally
+  at the objective side of the economic process or the type of accounting, then
+  this was a capitalist form of organization in every respect. However, scrutiny
+  of the spirit that inspired the employer also indicates that it was a
+  traditionalist business. A traditional approach to life, rate of profit,
+  amount of work, management of the business, and relationship to workers is apparent.
+  The circle of customer remained constant as well.
+
 ## Conclusion to this chapter
 
 * section 2.4 and 2.5 的重点是说：labors are an absolute end in itself.
@@ -527,4 +548,10 @@ and Protestants other than historical-political situation.
       of work in favor of other, more practical work techniques, their inability to
       adapt to new forms of labor, to learn, and to focus the mind's reasoning
       capacities, or even to use it. Wall of habit. leisurely rhythms.
-*
+
+* 资本主义的经济形式是怎么样的呢？
+    * 2.6 For example, the business operated by private employer on the basis of the
+      transformation of capital (that is, money, goods with monetary value) into
+      profit through the purchase of means of production, and the sale of product,
+      that is business undoubtedly capable of being organized as capitalist, can retain
+      the character of traditionalism.
