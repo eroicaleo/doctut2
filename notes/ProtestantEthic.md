@@ -510,7 +510,8 @@ and Protestants other than historical-political situation.
 
 ## section 2.8
 
-* YG: 这一节就要参考大染坊里陈寿亭和周掌柜了。简直说的全中。主要就是还是说了有了资本主义经济形式并
+* YG: 这一节讲述的是传统主义的雇主和具有现代资本主义的雇主之间的区别。
+  很好的例子可以参考大染坊里陈寿亭和周掌柜了。简直说的全中。主要就是还是说了有了资本主义经济形式并
   不能代表具有现代资本主义精神。摘抄如下：
 * Business hours were typically moderate - five or six hours a day and occasionally
   considerable less, but sometimes more if a busy season existed. Earnings although
@@ -527,7 +528,23 @@ and Protestants other than historical-political situation.
   of the spirit that inspired the employer also indicates that it was a
   traditionalist business. A traditional approach to life, rate of profit,
   amount of work, management of the business, and relationship to workers is apparent.
-  The circle of customer remained constant as well.
+  The circle of customer remained constant as well. The manner of acquiring customers
+  and markets was also traditional. All these factors dominated the operation of
+  business. Fundamental to this cycle of employers, as one can clearly state, was
+  an ethos.
+* At some point this easy and comfort were suddenly upset. Indeed, change occurred
+  often even in the absence of an accompanying qualitative change of the organizational
+  form, such as a changeover to a closed shop or the power loom. What happened
+  frequently was simply that some young man from a family that ran a cottage
+  industry moved out of the city and into the countryside, carefully selected
+  the weavers for his particular needs, and increasingly tighten their dependence and
+  his supervision over them. In the process, he transformed peasants into workers.
+  At the same time he began to increase the market by directly catering to
+  the final consumer: he took the retailing completely into his own hands, personally
+  sought out customers, visited them regularly every year, and attempted above all
+  to adapt the quality of his goods exclusively to customers' needs and wishes.
+  In these ways, he knew how to "do justice" to his customers, and simultaneously
+  he began to institute a basic principle: low price, large sales.
 
 ## Conclusion to this chapter
 
