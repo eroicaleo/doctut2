@@ -490,7 +490,8 @@ and Protestants other than historical-political situation.
   its most adequate form in modern capitalist company and on the other hand because
   the modern capitalist company discover in this frame of mind the motivating forces -
   or spirit - most adequate to it.
-* YG: 举例说明资本主义的典型都不是当时大资本家，而是接着新工业从中产阶级中崛起的新来者。
+* YG: 举例说明资本主义的典型都不是当时大资本家，而是接着新工业从中产阶级中崛起的新来者。就是现在
+  的情况也是如此。比如Jobs, Musk, Bazos.
 * Of course, it may happen that "spirit" and "form" do not come together at all.
   The "capitalist spirit" permeated BF at a time when the organization of his
   publishing business did not vary from the older, traditional form typical in
@@ -545,6 +546,21 @@ and Protestants other than historical-political situation.
   to adapt the quality of his goods exclusively to customers' needs and wishes.
   In these ways, he knew how to "do justice" to his customers, and simultaneously
   he began to institute a basic principle: low price, large sales.
+* YG: 这里有一个问题，前文提到很多具有资本主义精神的资本家都是受到家庭影响，可是这一段却说到一些
+  改变了组织形式的年轻人是从传统主义家庭出来的，会不会有点矛盾呢？
+* Again and again, that which is always and universally results of such a
+  "rationalism" process occurred. Whoever did not follow suit had to loss and
+  destruction as a consequence. The comfortable old idea collapsed and crumbled
+  in the face of a bitter competitive struggle. Consider fortunes were won,
+  yet they were not simply taken to bank to earn interest. Rather, they were
+  continuously reinvested into the business. The old leisurely, easygoing approach to life
+  yield to a disciplined temperateness. Those who consumed little and wanted
+  instead to acquire and earn rose to the top, and those who remained stuck in
+  the old ways has to learn to do with less.
+* YG: 接下来这一段很有趣，以前我总是有这样的影响，成功的生意人总是幸运地获得第一桶金，然后就一路
+  顺利下去。但是韦伯的这里观点正好相反，成功的生意人总是会有资本主义精神。只要有这种精神，那么他们
+  无论如何都能筹措到资金来开展他们的失业，比如乔布斯。
+* Several cases are known to me
 
 ## Conclusion to this chapter
 
@@ -556,7 +572,9 @@ and Protestants other than historical-political situation.
     * 2.5 The capacity to focus one's thoughts in addition to an absolute central element - the
     capacity to feel an "internally dedication to work", are found here unusually
     frequently. Perceiving work as an end in itself.
-* 资本主义精神不该有的：
+    * 2.8 increasingly tighten
+
+* 传统主义会有的：
     * 2.4 "With a maximum ease and comfort and a
     minimum of productivity, how is the accustomed wage nonetheless to be
     maintained?"
