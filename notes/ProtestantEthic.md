@@ -559,8 +559,18 @@ and Protestants other than historical-political situation.
   the old ways has to learn to do with less.
 * YG: 接下来这一段很有趣，以前我总是有这样的影响，成功的生意人总是幸运地获得第一桶金，然后就一路
   顺利下去。但是韦伯的这里观点正好相反，成功的生意人总是会有资本主义精神。只要有这种精神，那么他们
-  无论如何都能筹措到资金来开展他们的失业，比如乔布斯。
-* Several cases are known to me
+  无论如何都能筹措到资金来开展他们的事业，比如乔布斯。正好10/21/17看到鲁冠球去世的微信，也是
+  一开始筹措了4000元钱。
+* Several cases are known to me in which small loans from one's relatives placed
+  this entire revolutionary process into action. As a rule, however, and important
+  here, this transformation was not called forth by, for example, a massive influx
+  of new money. Rather, a new spirit come into play, the spirit of modern capitalism.
+  The question of the motivating forces behind the expansion of modern capitalism
+  is not primarily one of the sources of money reserves that can be used by
+  capitalist firms, but above all a question of the development of the spirit of
+  capitalism. Wherever this spirit become active and is able to have effect, it
+  acquires the money reserve to be used as fuel for modern capitalism's activities, not
+  the other way around.
 
 ## Conclusion to this chapter
 
