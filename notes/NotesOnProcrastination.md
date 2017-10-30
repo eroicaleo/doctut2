@@ -66,3 +66,25 @@
 * Internal consequence: irritations/regret/self-condemnation/despair. Inside they
   feel miserable. Procrastination prevents them from doing all they think they
   are capable of.
+* external consequences:
+    * late payment
+    * setbacks at school/work/relationship: divorce/lost of job
+
+## The cycle of procrastination
+
+* Procrastinators undergo a sequence of thoughts, feelings and behaviors, called
+  Cycle of procrastination
+
+1. "I will start early this time"
+    * At the outset, very helpful. Believe start will somehow spontaneous occur.
+      No planed effort.
+2. "I've got start it soon"
+    * Early start passed, anxiety and pressure builds up. But deadline is not yet
+      in sight.
+3. "What if I don't start"
+    * "I should have started early": regret/lament
+    * "I am doing everything but ..." avoid project but busy in other things.
+      Distracting things even make you believe you made progress on the Project.
+4. "I can't enjoy anything"
+    * Try hard to enjoy yourself, the shadow of unfinished project looms.
+      Any enjoyment rapidly disapprear replaced with guilty.
