@@ -572,6 +572,27 @@ and Protestants other than historical-political situation.
   acquires the money reserve to be used as fuel for modern capitalism's activities, not
   the other way around.
 
+## 2.9
+
+* YG: 第一段写具有现代资本主义精神的雇主的应有气质，用了四个排比，蛮有气势的。用来形容我的学霸
+  同学对学习的态度也是可以的。
+* But the entrance of the spirit of capitalism did not foster peace. The earliest
+  of its innovators regularly confronted a flood of mistrust, occasionally hatred,
+  and above all moral indignation. Frequently outright legends were created about
+  secret and dark skeleton in the early lives of proponents of this spirit.
+  It is not very easy for anyone to be so naive as not to recognize only an unusually
+  firm character could protect such new style employer from a loss of his calm
+  self control and from economic as well as moral catastrophe. In addition,
+  clarity of vision and strength to act decisively were required. Furthermore and
+  above all, under these new circumstances, only very specific and highly developed
+  ethical qualities would be capable of winning over the absolutely indispensable
+  trust of customers and workers. Finally, only such qualities could make
+  possible the lasting resilience necessary to overcome innumerable obstacles and,
+  more important, to undertake infinitely more intensive workplace tasks now
+  required of the employer. Because these ethical qualities were of a specifically
+  different type from those adequate to the traditionalism of the past, they
+  could not be reconciled with the comfortable enjoyment of life.
+
 ## Conclusion to this chapter
 
 * section 2.4 and 2.5 的重点是说：labors are an absolute end in itself.
