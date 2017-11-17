@@ -592,6 +592,39 @@ and Protestants other than historical-political situation.
   required of the employer. Because these ethical qualities were of a specifically
   different type from those adequate to the traditionalism of the past, they
   could not be reconciled with the comfortable enjoyment of life.
+* As a rule, the bold and unscrupulous speculators or adventurous persons in
+  pursuit of riches, such as are encountered in all epochs of economic development,
+  have not created this transformation. It has been scarcely visible to all who
+  investigate external changes only (such as a massive influx of new money),
+  alterations in the forms of organizations, or changes in the organization
+  of the economy. Nevertheless, these ethical qualities have been decisive for
+  the infusion of economy life with this new spirit. Nor were the great financiers
+  pivotal. Rather, a different group proved central: man raised in the school of
+  hard knocks, simultaneously calculating and daring, but above all dispassionate,
+  steady, shrewd, devote fully to their cause, and in possession of strict,
+  mid-class outlooks and principles.
+* YG: 感觉又在写陈寿亭，school of hard knocks, 在社会中历练，社会大学。
+* One might be inclined to believe that not the slightest connection exists between
+  these personal moral qualities and any ethical maxims, let alone any religious
+  ideas as such. One might be further inclined to see here an essentially negative
+  relationship: one could contend that leading an organized life oriented to
+  business assumes the capacity to withdraw oneself from long-standing religious
+  tradition. Hence, according to this line of reasoning, liberal enlightenment
+  views would constitute the adequate foundation for the life organized on behalf
+  of business activity. In fact this argument is in general correct today. As a
+  rule, a religious undergirding of the life oriented to business is absent.
+* Furthermore, wherever a relationship between the business activity and
+  religious belief exists, it turns out to be a negative one, at least in Germany.
+  People who are saturated with capitalist spirit tend to be indifferent, if not
+  openly hostile, to religion. The thought of pious boredom in paradise has
+  little appeal to their activity-oriented natures, and religion must appear to
+  this group as a mechanism which pulls people away from the very foundation of
+  existence - their work.
+* YG: 本段小结：第一段写的是具有资本主义精神的雇主的四个特质。第二段写的是2.8节中生产方式的改变
+  并不是由历史上的投机分子和冒险家所造成的。而是由具有第一段提到的伦理特质的人所创造的，他们就是
+  在社会中历练而成的中产阶级。第三段，就目前看来，这种道德特质和任何的宗教思想都没啥关系。启蒙主义
+  完全可以提供商业活动的思想基础。第四段，在现代人看来，越是具有资本主义精神的人，对宗教越是不关心，
+  甚至是反感。因为他们觉得宗教活动妨碍到了他们生活最根本的意义，那就是工作。
 
 ## Conclusion to this chapter
 
@@ -621,3 +654,7 @@ and Protestants other than historical-political situation.
       profit through the purchase of means of production, and the sale of product,
       that is business undoubtedly capable of being organized as capitalist, can retain
       the character of traditionalism.
+
+* 研究这个问题的难点在于：
+    * 资本主义经济形式和现代资本主义精神没有共生的关系，更没有因果关系。
+    * 从现代观点看，完全看不出宗教的影响，反而是有点反宗教。2.9.3, 2.9.4
