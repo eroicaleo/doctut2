@@ -620,11 +620,24 @@ and Protestants other than historical-political situation.
   little appeal to their activity-oriented natures, and religion must appear to
   this group as a mechanism which pulls people away from the very foundation of
   existence - their work.
+* If one were to question these people the meaning of their restless hunt, which
+  is never happy with processions already owned, and for this reason alone must
+  appear meaningless from the point of view of a completely this worldly orientation
+  of life, they would at times answer (if able to answer at all):" to care for the
+  children and grandchildren". Nevertheless, because this motivation is apparently
+  far from unique to them, and influences in the same manner all those with the approach
+  to business of traditionalism, they would more frequently offer the simple and
+  more correct answer, with it's stable work, business is indispensable to life.
+  This answer is indeed the single actual motivation, and it immediately renders
+  obvious the irrationality, from the point of view of one's personal happiness,
+  of this organization of life: people live for their
+  business rather than the reverse.
 * YG: 本段小结：第一段写的是具有资本主义精神的雇主的四个特质。第二段写的是2.8节中生产方式的改变
   并不是由历史上的投机分子和冒险家所造成的。而是由具有第一段提到的伦理特质的人所创造的，他们就是
   在社会中历练而成的中产阶级。第三段，就目前看来，这种道德特质和任何的宗教思想都没啥关系。启蒙主义
   完全可以提供商业活动的思想基础。第四段，在现代人看来，越是具有资本主义精神的人，对宗教越是不关心，
-  甚至是反感。因为他们觉得宗教活动妨碍到了他们生活最根本的意义，那就是工作。
+  甚至是反感。因为他们觉得宗教活动妨碍到了他们生活最根本的意义，那就是工作。第五段，这样的人秉承
+  着这样的信念：人活着是为了工作，而不是工作为了生活。这样的信念在以快乐为中心的人看了是无法理解的。
 
 ## Conclusion to this chapter
 
@@ -637,6 +650,7 @@ and Protestants other than historical-political situation.
     capacity to feel an "internally dedication to work", are found here unusually
     frequently. Perceiving work as an end in itself.
     * 2.8 increasingly tighten
+    * 2.9.5 people live for their work not the reverse.
 
 * 传统主义会有的：
     * 2.4 "With a maximum ease and comfort and a
