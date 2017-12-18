@@ -672,3 +672,59 @@ and Protestants other than historical-political situation.
 * 研究这个问题的难点在于：
     * 资本主义经济形式和现代资本主义精神没有共生的关系，更没有因果关系。
     * 从现代观点看，完全看不出宗教的影响，反而是有点反宗教。2.9.3, 2.9.4
+
+# Chapter 3 Luther's conception about calling
+
+## 3.1
+
+* Moreover, just as the meaning of this word is new, so is (and this should be well known)
+  the idea new. The conception of calling is the product of Reformation. This is
+  not to say that certain early signs of an appreciation of daily work, as found
+  in the notion of a calling, were not already visible in medieval age and even
+  in (late Hellenistic) Antique, as will be addressed later. At any rate, one
+  aspect is unequivocally new: the fulfillment of duty in a vocational calling
+  became viewed as the highest expression that moral activity could assume. Precisely
+  this new notion of the moral sense of devoting oneself in a calling was the
+  unavoidable result of the idea of attaching religious significance to daily
+  work. The earliest conception of a calling in this sense was produced in this
+  manner.
+* Hence, the concept of calling expresses the central dogma of all protestant
+  denominations, a dogma that rejects Catholicism's division of ethical commandments
+  into praecepta (that which is commanded) and consilia (that which is advised).
+  The single means of living in a manner pleasing to God changes accordingly:
+  an ascetic withdrawal from the world, and the clear surpassing of the world's routine
+  morality of daily live that such asceticism implies, is replaced by this-worldly
+  morality. This morality involves the fulfillment of duties, all of which derive
+  from the social and occupational positions of each person. The calling for each
+  person is defined through these positions.
+* Luther developed these ideas in the course of the first decades of his reformation
+  activity. At the beginning, quite in keeping with the dominate medieval tradition
+  as represented by, for example, Thomas Aquinas, Luther viewed this worldly work
+  as belonging to the realm of the flesh. Although said to be desired by God and
+  the indispensable nature of the devout life, work had no moral salience than
+  eating and drinking. However, the meaning of the calling became steadily more
+  important to him with the more clear implementation of his notion of "salvation
+  through single believer's faith" in all its consistency. This resulted in an
+  increasingly acute contrast to the Catholic evangelical consoles of monks and
+  friar, which Luther saw as "commanded by the devil".
+* To Luther, the monastic organization of life and monk's perception of it as
+  legitimate in the eyes of Gods, is now obviously of no value whatsoever. Moreover,
+  Luther understands monasticism as a product of egoistic lovelessness that withdraws
+  from one's duty in the world. By contrary, this worldly work in a vocation appears
+  to him to be a visible expression of brotherly love, a notion he anchored in a
+  highly unrealistic manner indeed and in contrast, almost grotesquely, to the
+  well-known passage of Adam Smith. Luther does so mainly by indicating that the division
+  of labor forces every person to work for others. Owing, however, to an essentially
+  scholastic nature of the justification, this argument is soon abandoned. Luther
+  emphasizes instead, and with increasing vigor, that the fulfillment of one's duty
+  in the world constitutes, under all circumstances, the only way to please God.
+  This fulfillment, and only this, is God's will. Therefore, every permissible
+  calling is of absolutely equal validity before God.
+
+* YG: 本节归纳。第一段，为完成天职所赋予的责任赋予道德意义，并是之为道德行为的最高表现是宗教改革
+      毋庸置疑的一个独特之处。第二段，新教与天主教对于取悦上帝的生活方式也有不同的理解。天主教
+      认为要ascetic withdraw from the world。新教认为this worldly morality比较重要。
+      这种现世道德的根本就是完成自己的使命(fulfillment of duty)。第三段，路德关于工作／职业
+      的态度也是经过一个发展历程。起初的与饮食等同，到后期的越来越重要。第四段，路德认为，fulfillment
+      of duty constitutes the only way to please God.
+* YG: 本节关键词：fulfillment of duty
