@@ -728,3 +728,39 @@ and Protestants other than historical-political situation.
       的态度也是经过一个发展历程。起初的与饮食等同，到后期的越来越重要。第四段，路德认为，fulfillment
       of duty constitutes the only way to please God.
 * YG: 本节关键词：fulfillment of duty
+
+## 3.2
+
+* That this legitimation of vocational life was one of Reformation's most influential
+  achievements, and in particular the achievement of Luther. It may even be rightly
+  understood as self-evident. It stands worlds away from the deep hatred with which
+  the contemplative voice of Pascal repudiates all favorable evaluation of
+  activity in the world. Such activity can be explained only by reference to
+  vanity and slyness, according to Pascal's deepest conviction. The broad-ranging
+  utilitarian adaption to the world practiced by Jesuit Probabilism stands even
+  further away from Reformation view. Yet how the practical significance of the
+  achievement of Protestantism that is to be presented in a detailed manner seems
+  conundrum. This achievement is more often dimly perceived than clearly recognized.
+* First of all, it is scarcely necessary to establish that Luther's writing, for
+  example, can be spoken of as having any inner affinity with the capitalist
+  spirit in the way which we have until now defined for the phrase (or by the
+  way, in any manner whatsoever). Even those churches that most eagerly praised
+  every achievement of Reformation are not today allied with capitalism in any of
+  its forms. Even Luther himself would undoubtedly harshly repudiate any relationship
+  with the frame of mind that came to the fore with Franklin.
+* The idea of a "calling" in the religious sense is capable of taking, when viewed
+  from the vantage point of its consequence for the organization of life in the
+  daily world of work, a variety of forms. The achievement of Reformation, in
+  contrast to the Catholic position, was primarily to increase drastically the infusion
+  of work (organized by a calling) with a moral accent and  to place a religious
+  value, or a reward on it. How the idea of a calling, which gave expression to
+  this achievement, further unfolded depends on the particular formulation
+  of the notions of piety in the different Reformation churches.
+
+* YG: 本节归纳。第一段，宗教改革最深远的影响就是对“天职”观念的合法化，可以说这是路德一人的贡献。
+  但人们只是对此影响却缺少清晰地认识。第二段，不能说路德的此种贡献和富兰克林的资本主义世界观有任何的
+  内在联系，当然就更没有因果关系。这里要注意的是，路德不是反对富兰克林的资本主义三观，而是觉得自己
+  的三观和富兰克林的三观没啥联系。第三段，当然也不能把路德反对富格这些商人的行为就当成是他反对
+  富兰克林的资本主义三观，并且认为他是经济传统主义。第四段，路德对于资本主义经济形式的理解比较落后。
+  最后一段，对于天职观念的在实际生活中的实践，不同的新教教派，依照自己对虔诚的理解，有着迥异的方式。
+  而路德改革的主要贡献是对“工作”给予了道德上的肯定。
