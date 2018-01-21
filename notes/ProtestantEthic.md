@@ -764,3 +764,58 @@ and Protestants other than historical-political situation.
   富兰克林的资本主义三观，并且认为他是经济传统主义。第四段，路德对于资本主义经济形式的理解比较落后。
   最后一段，对于天职观念的在实际生活中的实践，不同的新教教派，依照自己对虔诚的理解，有着迥异的方式。
   而路德改革的主要贡献是对“工作”给予了道德上的肯定。
+
+## 3.3
+
+* The eschatological expectation that filled the first generations of Christians
+  account for the indifference and traditionalism: because all changes awaited
+  the coming of the Lord, the devout only wished to remain in the status and
+  occupation that God's calling have found them - and to continue to work as
+  before. In this way, the faithful would not become impoverished and burdensome
+  to fellow believer.
+* Luther was convinced that people of every status can become saved; To lend
+  importance to the type of calling in this short pilgrimage of life would be
+  meaningless. Therefore, the striving for gain that goes beyond one's own needs,
+  Luther argues, must be a symptom of one's lack of grace.
+* The increasingly strong emphasis on the role of providential forces, even in
+  life's disjointed happenings, now leads him more and more to emphasize the
+  importance of Divine Will as "fate", an idea that proved compatible with economic
+  traditionalism: the individual should basically stay in the calling and status
+  in which God had first placed him. His striving in this life should remain within
+  the boundaries of his existing life situation.
+* Hence, whereas Luther's economic traditionalism at the beginning was anchored
+  in Pauline indifference to the world, his economic traditionalism later flowed
+  out of the more increasingly intense belief in Divine Providence that identified
+  an unconditional obedience to God with an unconditional submission to one's
+  given lot. This way of thinking could not at all carry Luther to a fundamentally
+  new way of linking work in a calling with religious principles, or in general
+  to the formulation of a substantive foundation for such a linkage. The purity
+  of doctrine, as the single infallible criterion of Luther's church, had itself
+  inhibited the development of any new ideas in the realm of ethic.
+* YG: 本节归纳。第一段，路德认为自己的天职观念源于圣经。但是圣经中极少有关于职业的段落。更没有
+  把工作赋予特别的道德意义。第二段，耶稣本人的思想也和路德的现代天职观没有任何联系，因为耶稣认为
+  “sinfulness of ownership”。第三段，使徒们和圣保罗对“calling”的态度是indifference和
+  traditionalism. 第四段，路德起初也秉承着类似的观念。他们的想法都是觉得此世的生活没有多大意义。
+  何必要花精力。第五段，随着路德自己更加参与进入世俗事物中，他也越来越看重世俗工作的价值。他认为：
+  一个人在此世的工作和地位是天意所安排的命运，个人必须停留在这个天职中。最后一段，路德的经济传统
+  主义最初挂靠在彼得的对此世莫不关心，但后来就觉得是天意使然。韦伯评价到，这样的想法，是不能够给
+  天职和工作以更多的伦理意义。
+* YG: 评论：所以你看韦伯的论证是很细致的，不是跳跃性的。路德改革的确是给了天职工作伦理意义，给予
+  肯定。但没有肯定striving for gain。路德本身还是忠实于经济传统主义的。但是他的经济传统主义
+  和保罗的想法又是不一样的。
+
+## 3.4
+
+* As Divine decree, the calling is something that must be submitted to: persons
+  must "resign" themselves to it ... the work in a calling is one, or actually
+  the task given by God.
+* With respect to ethical action, Luther did not involve an ascetic notion of duty.
+  Hence any possibility for a surpassing of the routine morality of daily life
+  was eliminated. The negative consequence for ethical action become apparent
+  once an acknowledgement of this aspect of Lutheranism is combined with its
+  central features: the preaching of obedience to secular authority and believer's
+  resignation to their life-situation as it is given to them.
+* YG: 本节归纳：第一段，路德认为，天职是上帝给予人们的唯一工作，人们需要全身心地奉献给它。第二段，
+  路德认为，实践天职不需要采取苦行的行为，要做的是只需要服从。第三段，就苦行这一点的看法，路德甚至要比
+  陶德的神秘教派更加落后，因为他始终对苦行抱着怀疑态度。最后一段，路德教派比起别的新教教派，和
+  资本主义的联系更不紧密。所以现在要转向另外新教教派的讨论。
