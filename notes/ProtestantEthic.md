@@ -819,3 +819,37 @@ and Protestants other than historical-political situation.
   路德认为，实践天职不需要采取苦行的行为，要做的是只需要服从。第三段，就苦行这一点的看法，路德甚至要比
   陶德的神秘教派更加落后，因为他始终对苦行抱着怀疑态度。最后一段，路德教派比起别的新教教派，和
   资本主义的联系更不紧密。所以现在要转向另外新教教派的讨论。
+
+## 3.5
+
+* As the Reformation was inconceivable without Luther's personal religious development
+  and was spiritually determined in a lasting manner by his personality, an
+  enduring practical impact of Luther's work would have been, without Calvinism,
+  equally inconceivable. ... Even a superficial glance at Calvinism reveals
+  a formulation of relationship between religious life and earthly action completely
+  different from those found in Catholicism and Lutheranism.
+* Deeds to thy knowledge answerable; add faith; add virtue, patience, temperance;
+  Add love; By name to come called Charity, the soul of all the rest; then will
+  you not to be loth to leave this paradise, but shall process a paradise within
+  thee, happier far.
+* Every person immediately feels the powerful expression of the grave Puritan
+  turning to the world - that is, the valuing of life's matter of fact activities
+  as a task - would never have been expressed by a medieval writer.
+* YG: 本节归纳：第一段，路德发现从他衍生出的新教教派和他的精神气质就不一样。第二段，如果没有加尔文
+  教派，路德的改革和思想就不能长久。但是加尔文派和路德在宗教生活与现世行动的关系就有着大相径庭的理解。
+  第三段到最后，清教徒的精神气质。米尔顿的失乐园被称为请教徒的天国篇。其中展现了他们把注意力转向
+  世界的想法。
+
+## 3.6
+
+* YG: 本节归纳：第一段，如果用国家性格来解释清教徒的这种世界观就大错特错了。因为清教革命时，保皇派
+  和革命派都在英国。第二段，再次强调，不要认为宗教改革的领袖就具有我们这里的所谓的资本主义精神，
+  他们根本不会认为追求现世的物质会有任何的伦理价值。第三段，伦理变化在宗教改革家那里根本不重要，
+  他们所关心的唯一的核心问题就是灵魂如何得到救赎。之后出现的社会变革其实与他们的初衷相聚甚远甚至
+  背道而驰。
+
+## 3.7
+
+* YG: 本节归纳：这一节可以说是把这本书所要探讨的问题再一次进行归纳总结。第一段，我们要搞清楚的是
+  宗教的动机对于人们把注意力放在此世的生活有什么影响。我们要问，现代生活的那些特征可以归因于宗教
+  改革的影响。
