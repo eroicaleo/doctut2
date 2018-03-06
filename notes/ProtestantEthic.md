@@ -852,4 +852,28 @@ and Protestants other than historical-political situation.
 
 * YG: 本节归纳：这一节可以说是把这本书所要探讨的问题再一次进行归纳总结。第一段，我们要搞清楚的是
   宗教的动机对于人们把注意力放在此世的生活有什么影响。我们要问，现代生活的那些特征可以归因于宗教
-  改革的影响。
+  改革的影响。第二段，不能把宗教改革看出是经济发展的历史必然性导致的结果。第三段，批驳两个观点。
+  第一，资本主义精神从新教改革中产生出来。第二，资本主义经济作为一种经济形式是宗教改革的产物。因为
+  资本主义经济形式大大早于新教改革。我们所能确信的是，是否，或者到多大程度，宗教对资本主义发展起到
+  影响。最后一段，首先要研究宗教信仰和日常工作的亲和性。宗教运动对经济文化发展的影响。最后考察
+  现代生活的某些价值观可以归于新教改革。
+
+# Chapter 4 The religious foundations of this worldly asceticism
+
+## 4.1
+
+* YG: 本节归纳：第一段：新教苦行教派的四个载体：加尔文派，虔敬派，卫理公会，米诺/教友/洗礼派。
+  他们之间或者他们和非苦行教派的区别并没不显著。
+
+## 4.2
+
+* Of course it is true that the dogmatic roots of ascetic morality, which varied
+  across different denominations, died off after terrible struggle. Nonetheless,
+  the original anchoring of ascetic morality to those dogmas not only left strong
+  legacies in the "undogmatic" subsequent ethics; in addition, only knowledge of
+  the content of the foundational ideas teaches us to understand how this ascetic
+  morality was connected with the thought about next life. Indeed, the moral awakening,
+  which considerably influenced the practical life of believers, would not have
+  been set in motion without the overarching power held by the next life over
+  the believers.
+* YG: 本节归纳：第一段：虽然关于苦行的教理已经慢慢消失，但是正是这些教理影响了信徒的伦理行动。
