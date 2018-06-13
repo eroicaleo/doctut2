@@ -170,3 +170,95 @@
 
 * Procrastinator are often perfectionist. Put unrealistic goals and feel overwhelmed
   and then retreat.
+* Are your standards making you progress or leading you discouraged, frustrated?
+  随之而来的就是对自己的否定
+
+### Mediocrity Breeds contempt
+
+* Perfectionist devalue average, regard them as contempt. You picture yourself
+  as perfect, then whatever you did will seem mediocre.
+* If one is outstanding, difficult things should be easy. Creative ideas flow
+  ceaselessly. Decisions will be made immediately with total certainty. Work hard
+  is inferior. *_Their need to be smart keeps them ignorant. After all, if you
+  can't stand not knowing, you can't learn._* [横向阅读]这不是人类简史上说的现代科学的
+  第一条吗。
+* Going it alone: perfectionist thinks does not need to get help.
+* There is a right way: rather than take the risk of making the wrong choice,
+  they do nothing.
+* Can't stand lose: fear loss in the competition, I lost but I did it to myself.
+* Perfection is an ideal that reliquenshes very, very gradually. Hard to accept
+  you have never been and will never be perfect.
+
+### Mindset
+
+* Fixed mindset: intelligence and talent are born with, fixed and permanent.
+  No room for mistakes. Having to make effort is evidence of deficiency.
+  These people don't want to take risk that might result in failure.
+* Growth mindset: abilities can be developed. Effort makes you smarter and better.
+* What matters is what you learn, how you've improved. Out come moves background.
+  Ability can be developed. "Is success about learning or proving you're smart?"
+
+### The fate of the imperfect: consequence real and imaged
+
+* perfectionist exaggerate the consequence, thinks catastrophically.
+* expectations are more intimidating when they are vague. So they need ask themselve
+  more concrete questions.
+* Ethan's example, outward very successful, but feared would loose everything.
+  pressure makes him procrastinate. one incident to total disaster. Disaster feels
+  so imminent to Ethan and he cannot do work.
+* catastrophic thinking is undermining. Needs to step back and take a careful look.
+* play out worst scenarios, although fantasies are your fear but are certainly
+  exaggerated. If can shift from fixed to growth mind set, imperfection becomes
+  impetus to improve and learn.
+
+# Ch03 Fear of Success
+
+## Common reasons for avoiding success
+
+* Success takes too much, I have to retreat.
+    * Afraid of failure, afraid being exposed as weak
+    * Afraid of success, they think something wrong with being competitive.
+      put off application/delay training/postpone study (grades are not important)
+    * Shaun, architect, delays laying out design. He fears others like his drawing,
+      and hearing compliment.
+    * Procrastination give Shaun a buffer from bing exposed and trapped and won't
+      leave in high-pressure life he thinks he doesn't want to.
+    * like Higher jumper, jumper higher, raise the bar.
+* Commitment Phobia
+    * Don't commit, not going anywhere, won't in the spot light.
+    * Like getting on an escalator, can only get off at the top.
+    * fear of failure, don't commit because worry make mistakes; fear of success,
+      worry will go into competition/contest before ready.
+    * Procrastination is the break.
+* I will turn into workaholic
+    * Some thinks if get down to work, then will work all the time.
+    * Freelance writer, only start working before 3 days of the deadline. If starts
+      working 3 weeks before, she thinks will work all the time.
+    * Implication of this perspective: success leads to a loss of control and choice.
+      Success creates helplessness instead of power. You will be no longer yourself,
+      but some one you don't like.
+* Some one will get hurt because of my success
+    * May based on reality or just imaginative worries.
+    * Hide sth. didn't want to offend someone. Salary increase higher than Daddy.
+    * downplaying your success is courteous and one thing, but diminish oneself
+      and not become success is another.
+    * Wife doesn't want to work well to earn more money than husband.
+    * In fact, others might be more stronger and generous. It might be the
+      distortion of our thinking.
+    * Some college students, the more they succeed, the more the difference grows.
+      They feel leaving their family behind.
+* I could get hurt
+    * Some thinks success would get them attacked, others will criticize them.
+    * Andrea wants to run things, but views the world as dog-eat-dog and afraid
+      to get attacked and doesn't want to fight back.
+    * Child experience: pursue goals threaten parents/siblings; accomplishments
+      are mocked and ignored; success took us away from family; feared being
+      punished for unacceptable wishes.
+* There is something wrong about me.
+    * Some thinks there is something wrong with them.
+    * Some feel guilty about actions not very serious.
+    * Procrastination is used as self punishment for an imaginary crime, e.g.
+      car accident caused by others.
+    * Damien, survivor guilty.
+    * College students from families with difficult situation, feels they leave
+      younger siblings behind. So they don't pursue academic success.
