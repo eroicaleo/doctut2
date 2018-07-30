@@ -85,3 +85,14 @@ rights to do the same. That's the fundamental idea. Robert Nozick, one of the
 libertarian philosophers we read, for this course puts it this way, individuals
 have right, so strong and far-reaching are these rights that they raise the question
 of what, if anything, the state may do.
+
+* 7:42 So what does libertarianism say about the role of government or of the state?
+  Well, there are three things that most modern states do that on the libertarian
+  theory of rights are illegitimate, are unjust. One of them is paternalist legislation.
+  That's passing laws that protect people from themselves. Seat belt law for example,
+  or motorcycle helmet laws. The libertarian says, it may be a good thing if people
+  wear seatbelts, but that should be up to them, and the state, the government, has
+  no business coercing them, us, to wear seat belts by law. It's coercion. So no paternalist
+  legislation. Number one.
+
+* 8:44 Number two: No morals legislation.

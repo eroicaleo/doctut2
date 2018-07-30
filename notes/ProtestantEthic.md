@@ -876,4 +876,34 @@ and Protestants other than historical-political situation.
   which considerably influenced the practical life of believers, would not have
   been set in motion without the overarching power held by the next life over
   the believers.
+* Our interest is, however, altogether otherwise: we wish to ascertain which psychological
+  motivations gave
 * YG: 本节归纳：第一段：虽然关于苦行的教理已经慢慢消失，但是正是这些教理影响了信徒的伦理行动。
+
+* Footnote 39: The rejection of all human glorification is likewise related to
+  the relatively high degree of immunity to authoritarianism possessed by peoples
+  influenced by Puritanism. Furthermore, this rejection is related, in general,
+  to the internally less inhibited posture of the English vis-a-vis their great
+  statesman (and their greater capacity to criticize them). This posture contrasts
+  to some of our experiences in Germany from 1878 to the present (both positively
+  and negatively) in respect to our statesmen. The posture of the English is
+  characterized by a tendency, on the one hand, to acknowledge leadership in
+  distinguished persons. It is marked, on the other hand, despite this acknowledgement,
+  by a further proclivity to reject all hysterical idolization of leaders.
+* YG: 这段文字简直对后来纳粹的上台一语成谶。
+
+## 4.10
+
+* YG: 第一段，Calvinism在社会组织方面的优越性，是由于其强调个人孤独性，使得"brotherly love"脱离了
+  其原本的意义而导致的结果。
+* YG: 第二段，世界和神选基督徒的存在只是为了增加神的荣耀。基督徒的社会活动也是以此为目的。在此世
+  的工作也带有这种性质。
+* YG: 加尔文主义认为：工作是为了建构我们周遭的理性的社会，而不是为了人(impersonal)服务。
+  这才人的用处，能够增益神的荣耀。
+* YG: 脚注43，以在中国传道为例，中国人是不是改信基督或是能否得救，这不是传道士关心的问题，这只能
+  由上帝决定。传道这个工作是为了增加神的荣耀。
+* YG: 对于清教徒来说，神义论和生命存在这样的问题更不是不证自明的。
+
+## 4.11
+
+* YG: 第一段，问题是人们怎么能够忍受这个教义。人们如何确定自己是被拣选的？
