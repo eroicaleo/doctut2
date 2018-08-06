@@ -57,3 +57,55 @@
   hard to stop.
 * Some is pessimistic about the war.
 * 第三层意思，对战争的担忧。
+
+# Messaging the shooter
+
+* 9/3, 8 times than last bomb
+* no good options for preventing it.
+* DT criticized SK and even prepare to pull out free trade deal. Bad idea at awful
+  time.
+* Kim wants to have nuclear to threat US. Then if US abandon SK, Kim can threat
+  SK. DT unforgivable blunder.
+* Mattis is not tough enough, he should have said: "Kim starts war, he will perish".
+* DT needs to make red line very clear.
+
+# No where to hide
+
+* Face is so important.
+    * recognize each other
+    * reading faces for emotional signals
+
+* Face recognition tech
+    * US: church checks attendance
+    * UK: shop lift
+    * CH: ride-hailing drivers, e-payment
+    * apple: unlock.
+
+* The tech might change notions of privacy, fairness, trust. reason:
+    * store/record/analysis cheaply/quickly/on a vast scale
+
+* Privacy:
+    * Facebook can send Ads from public pictures
+    * CH keeps people photo
+    * FBI access adults photo
+
+* Face can give other info
+    * Genetic condition
+    * Sexuality
+
+* Fairness:
+    * employment/night club/ court decision on bail and sentencing
+
+* Trust:
+    * Marriage and working: more trustful but less harmonious
+    * Social interaction: from a set of commitments founded on trust to a calculation
+      of risk and reward derived from computer attaches to someone's face.
+      Relationship will be more rational but also more transctional.
+
+# 03/17/2018
+
+This ultimately gave rise to Silicon Valley, where it was infused by a spirit of free inquiry, vigorous competition and a healthy capitalist incentive to make money. It was supercharged by an immigration system that welcomed promising minds from every corner of the planet. Sixty years after the Sputnik moment, America needs the same combination of public investment and private enterprise in pursuit of a national project.
+
+And it needs to rediscover what has made it great in technology: investing in both basic and applied research and being an attractive destination for highly qualified immigrants (a requirement which, it must be admitted, the Trump administration is not well placed to meet).
+
+The beauty of the energy transition, enthusiasts believe, will be to give communities “super powers” over their energy, rather than turn countries into energy superpowers.

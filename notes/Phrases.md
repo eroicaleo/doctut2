@@ -24,3 +24,14 @@
 * 如果要用without, 可以考虑替换成in the absence of
 
 * remained the same 该用 remained constant.
+
+* 要说结果，出了as the result, 可以说it's a product of ...
+
+* 使什么能够，would be capable ... could make possible
+
+* 成功的干成了什么事，has succeeded in xxx, has managed to xxx, 我看可以在任何动词前加
+  这个。。。
+
+* 按照这个思路：according to this line of reasoning
+
+* 不是一个次元：stands worlds away
