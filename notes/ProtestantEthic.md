@@ -907,3 +907,5 @@ and Protestants other than historical-political situation.
 ## 4.11
 
 * YG: 第一段，问题是人们怎么能够忍受这个教义。人们如何确定自己是被拣选的？
+* pg 125 1st steel hard puritan merchants.
+* pg 126 last paragraph vessel or tool.
