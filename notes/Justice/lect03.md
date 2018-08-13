@@ -95,4 +95,13 @@ of what, if anything, the state may do.
   no business coercing them, us, to wear seat belts by law. It's coercion. So no paternalist
   legislation. Number one.
 
-* 8:44 Number two: No morals legislation.
+* 8:44 Number two: No morals legislation. Many laws try to promote the virtue of
+  citizens. Or try to give expression to the moral values of the society as a whole.
+  libertarians say that's also a violation of the right to liberty. Take the example
+  of, well, a classical example of legislation offered in the name of promoting
+  morality traditionally, have been laws that prevent sexual intimacy between gays
+  and lesbians. The libertarian says nobody else is harmed, nobody else's right
+  is violated, so the state should get out of the business entirely of trying to
+  promote virtue or to enact morals legislation.
+
+* 9:45 And the third kind of law
