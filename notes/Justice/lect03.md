@@ -104,4 +104,14 @@ of what, if anything, the state may do.
   is violated, so the state should get out of the business entirely of trying to
   promote virtue or to enact morals legislation.
 
-* 9:45 And the third kind of law
+* 9:45 And the third kind of law or policy that is ruled out on the libertarian
+  philosophy is any taxation or other policy that serves the purpose of redistributing
+  income or wealth from the rich to the poor. Redistribution is a kind of, if you
+  think about it, says libertarianist, a kind of coercion, what it amounts to is
+  theft, by the state or by the majority, if we are talking about democracy.
+  From people who happen to do very well and earn a lot of money. Now Nozick and
+  other libertarians allow that there can be a minimal state, that taxes people
+  for the sake of what everybody needs, the national defense, police force,
+  judicial system to enforce contracts and property rights. But that's it.
+
+* 10:51

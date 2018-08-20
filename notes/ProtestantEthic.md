@@ -909,3 +909,18 @@ and Protestants other than historical-political situation.
 * YG: 第一段，问题是人们怎么能够忍受这个教义。人们如何确定自己是被拣选的？
 * pg 125 1st steel hard puritan merchants.
 * pg 126 last paragraph vessel or tool.
+* pg 133 last para One feels the Hebrew wisdom in Puritans life, i.e, suppression of the
+  mystical and feeling aspect of religion. Rational character. Can be traced
+  to the influence of Old Testimony.
+* pg 134 para 2 Old Testimony rationalism is of a petit bourgeois. Calvinism's
+  ascetic character select out and assimilate the congenial element from Old
+  Testimony.
+* pg 134 para 3 Puritan Christians perpetually monitored his state of grace
+  with the help of diaries.
+* pg 134 para 4 Franklin's diary marks his progress in cultivating particular
+  virtues. Medieval diary, the relation of sinner and Got is like customer
+  and shopkeeper. The interest can be paid but not the debt itself.
+* pg 135 para 5 Late Puritans also monitor the behavior of God and knew why God
+  had decided in this or that way. The striving to make life holy assume the
+  Character of business. A penetrating Christianation of the entire being which
+  was the consequence 
