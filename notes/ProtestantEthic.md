@@ -927,9 +927,10 @@ and Protestants other than historical-political situation.
 * pg 137 para 2 The striking difference between ethical standards of the courts of
   Reformist and Lutheran princes was well known in the Reformation period. What
   one perceives today in the Germans as the behavior of easygoing congeniality
-  and a "lack of affected mannerisms" contrasts to the behavior of the Anglo-Saxons. 
+  and a "lack of affected mannerisms" contrasts to the behavior of the Anglo-Saxons.
 * pg 137 para 4 The motivation toward a methodical rationalization of life, which
   conditions the ascetic character of piety, could undoubtedly be produced through
   a variety of religious ideas. Calvinism's doctrine of predestination offered
   only one among diverse possibilities. It processed an entirely unique consistency.
   It stood out because of a great psychological effectiveness.
+* pg
