@@ -26,6 +26,16 @@
   and its species will be at the end of a thousand years what it was the first
   year of that thousand.
 * pg xxxiv human soul has been altered in the bosom of society.
+* 摘抄：And how will man ever manage to see himself as nature formed him, through
+  all the changes that the sequence of time and of things must have produced
+  in his original constitution, and to disentangle what he retains of his own
+  stock from what circumstances and his progress have added to or changed in
+  his primitive state? Like the statue of Glaucus, which time, sea and storms
+  had so disfigured that it resembled less a god than a ferocious beast, the human
+  soul, altered in the bosom of society by a thousand continually renewed causes,
+  by the acquisition of a mass of knowledge and error, by changes that took place
+  in the constitution of bodies, and by the continual impact of the passions, has,
+  so to speak, changed in appearance to the point of being almost unrecognizable. 
 * pg xxxv Same as Hobbes, nature state: egotism, reason is instrument of passion.
   Difference, Hobbes, war of all against all. Rousseau, peaceful. Hobbes, men
   have pride fear of death, competition, war. Rousseau, these are not in state
