@@ -25,3 +25,10 @@
   whereas an animal is at the end of a few months what it will be all its life
   and its species will be at the end of a thousand years what it was the first
   year of that thousand.
+* pg xxxiv human soul has been altered in the bosom of society.
+* pg xxxv Same as Hobbes, nature state: egotism, reason is instrument of passion.
+  Difference, Hobbes, war of all against all. Rousseau, peaceful. Hobbes, men
+  have pride fear of death, competition, war. Rousseau, these are not in state
+  of nature.
+* pg xxxv human soul: self-love and pity. Self-love is nature feeling. Pride is
+  a relative feeling.
