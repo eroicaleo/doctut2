@@ -35,10 +35,16 @@
   soul, altered in the bosom of society by a thousand continually renewed causes,
   by the acquisition of a mass of knowledge and error, by changes that took place
   in the constitution of bodies, and by the continual impact of the passions, has,
-  so to speak, changed in appearance to the point of being almost unrecognizable. 
+  so to speak, changed in appearance to the point of being almost unrecognizable.
 * pg xxxv Same as Hobbes, nature state: egotism, reason is instrument of passion.
   Difference, Hobbes, war of all against all. Rousseau, peaceful. Hobbes, men
   have pride fear of death, competition, war. Rousseau, these are not in state
   of nature.
 * pg xxxv human soul: self-love and pity. Self-love is nature feeling. Pride is
   a relative feeling.
+* 摘抄：self-love (amour de soi-meme) is a nature feeling that inclines every
+  animal to look after self-preservation, directed in man by reason and modified
+  by pity, produces humanity and virtue. Pride (amour propre) is only a relative
+  feeling, fabricated and born in society, that inclines everybody to attach
+  more importance to himself than anybody else, that inspires in men all harm
+  they do to one another, and that's the true source of honor.
