@@ -42,9 +42,21 @@
   of nature.
 * pg xxxv human soul: self-love and pity. Self-love is nature feeling. Pride is
   a relative feeling.
-* 摘抄：self-love (amour de soi-meme) is a nature feeling that inclines every
+* 摘抄：self-love (amour de soi-même) is a nature feeling that inclines every
   animal to look after self-preservation, directed in man by reason and modified
   by pity, produces humanity and virtue. Pride (amour propre) is only a relative
   feeling, fabricated and born in society, that inclines everybody to attach
   more importance to himself than anybody else, that inspires in men all harm
   they do to one another, and that's the true source of honor.
+* 摘抄：Finally and centrally for Rousseau's thought, he argues ... that humans
+  are naturally "good". Rousseau does not mean by this that humans are naturally
+  moral, virtuous and beneficent, since he argues that human originally are not
+  social, rational and moral. Rather, humans are naturally "good" in that their
+  nature passions and faculties tend toward their self-preservation and well-being
+  as individual and as species. ... The nature "goodness" of man consists in
+  an equilibrium between his needs and passions and his ability to satisfy them,
+  an equilibrium that makes him good for himself and also not dependent on others,
+  for it is dependence above all that makes men evil. For Rousseau, it is the
+  social relations that are not natural to man that "make a being evil while making
+  him sociable, and eventually to bring man and the world from so distant a
+  beginning to the point where we now see them."
