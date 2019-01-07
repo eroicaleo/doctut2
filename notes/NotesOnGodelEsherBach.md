@@ -1,6 +1,22 @@
 # Chapter 1
 
-##
+## Consistency, Completeness, Hilbert's Program
+
+* For principia Mathematica, no one was sure if 1) all of mathematics really
+  was contained in the methods delineated by Russell and Whitehead, or 2)
+  the methods given were even self-consistent.
+* David Hilbert's Challenge: to demonstrate rigorously - perhaps following the
+  very methods outlined by Russell and Whitehead - that the system defined in
+  Principia Mathematica was both consistent (contradiction free) and complete
+  (that every true statement of number theory could be derived within the
+  framework drawn up in P.M.).
+* Godel's paper revealed not only that there were irreparable "holes" in the
+  axiomatic system proposed by R&W, but more generally, that no axiomatic
+  system whatsoever could produce all number-theoretical truths, unless it were
+  an inconsistent system! And finally, the hope of proving the consistency of
+  a system such as that presented in P.M. was shown to be vain: if such a proof
+  could be found using only methods inside P.M., then - and this is one of the
+  most mystifying consequences of Godel's work - P.M. itself would be inconsistent.
 
 ## Babbage, Computer, AI
 
@@ -9,7 +25,7 @@
   contained in punched cards - an idea inspired by Jacquard loom.
 * Lady Lovelace was profoundly aware with the invention of AE, mankind was
   flirting with mechanized intelligence - particularly if the AE were capable of
-  changing its own stored program. 
+  changing its own stored program.
   Lady Lovelace was skeptical about the artificial creation of intelligence.
   "The analytic engine has no pretensions whatever to originate anything. It
   can do whatever we know how to order it to perform."
