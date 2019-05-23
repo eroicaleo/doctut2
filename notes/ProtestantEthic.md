@@ -933,4 +933,3 @@ and Protestants other than historical-political situation.
   a variety of religious ideas. Calvinism's doctrine of predestination offered
   only one among diverse possibilities. It processed an entirely unique consistency.
   It stood out because of a great psychological effectiveness.
-* pg

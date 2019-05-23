@@ -60,3 +60,13 @@
   social relations that are not natural to man that "make a being evil while making
   him sociable, and eventually to bring man and the world from so distant a
   beginning to the point where we now see them."
+
+# Preface
+
+* I believe I perceive in it two principles preceding reason, one of which
+  interests us ardently in our well-being and our self-preservation.
+
+# First part
+
+* pg 66, para 3-4, 原始人于现代人和现代人的力量对比。原始人更善于利用自己的身体。和《人类简史》
+  里的一章颇为相像。
