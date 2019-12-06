@@ -70,3 +70,24 @@
 
 * pg 66, para 3-4, 原始人于现代人和现代人的力量对比。原始人更善于利用自己的身体。和《人类简史》
   里的一章颇为相像。
+
+* pg 85 para 2 It is therefore quite certain that pity is a nature feeling which,
+  by moderating the activity of love of oneself in each individual, contributes
+  to the mutual preservation of the entire species. It is it
+
+* Page 86 2nd It must first be agreed that, the more violent of the passions,
+  the more laws are needed to contain them. But aside from the fact that the
+  disorders and crimes they daily cause among us show clearly enough the
+  insufficiency of laws in this regard, it would also be good to examine
+  whether these disorders do not arise along with these laws themselves. For
+  then, even were they capable of repressing these disorders, the very least
+  that should be demanded of them is to stop an evil that would not exist
+  without them.
+
+* Page 89 1st But even if nature showed as much partiality in the distribution
+  of its gifts as is claimed, what advantage would the most favored derive from
+  them at the expense of others in a state of things which allowed for almost no
+  kind of relationship among them? Where there is no love, of what use will
+  beauty be? What use is wit for people who do not speak and cunning for those
+  who have no dealings with one another? I hear it always repeatedly said the
+  stronger will oppress the weak

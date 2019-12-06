@@ -1,6 +1,12 @@
 # Chapter 4 Inspectional Reading
 
-## systematic skimming or pre-reading
+## 4.1 systematic skimming or pre-reading
+
+* Do you know if you want to read this book (reading matter)?
+  Do you think it contains information and insights that's valuable to you?
+  Do you have enough time to dig them out? (The answer is always no).
+* The purpose of pre-reading is to find out what the author's main contention is?
+  What kind of book (reading matter) he has written.
 
 1. Look at title and preface:
     * scope or aim of the book

@@ -50,4 +50,36 @@
 * De Jong scale doesn't measure duration; UCLA scale doesn't delve into
   the feelings.
 
-### 
+# 201901
+
+## Evolve to Exercise
+
+### Food for thought
+
+* Food changes the way of our living. Eating meat means more travel,
+  and often coupled with increased cognitive sophistication.
+* Hunting-and-gathering makes people more tightly knit, requires more sharing
+  and cooperation.
+* Put an evolutionary premium (value sth more important) on intelligence.
+    * Technology creativity and innovation.
+    * Social intelligence would have proved invaluable, as coordination and
+      communication became ingrained parts of hominin strategy.
+        * 举个例子：～300K years ago, hominin cognition had blossomed into the
+          kind of sophistication seen in modern humans, with red and black
+          pigments for visual expression and long-distance trade networks
+          for premium stone tool material.
+* Hunter-gathers are remarkably active, e.g. 15k one day. Run prey to exhaustion.
+* The steady increase in brain size and technological complexity over the past
+  2 million years seem to accumulate like snowballs rolling downhill, yet any
+  impression of momentum is an illusion. Evolution has great memory but no plans.
+  We are not inevitable. 正好和灭霸说得相反。
+    * 举个例子：homo naledi 就没有再进化。
+
+### Sharks on Savana
+
+* No traits evolves in isolation: brains must fit snuggly inside their skulls,
+  teeth inside their jaws; muscles, nerves and bones must function harmoniously.
+  When a behavior strategy becomes norm, our physiology adapts to accommodate to
+  and even depend on it. 第一段，总领，我们的生理机能会去适应我们的行为方式。
+* 有些啮齿动物或肉食动物进化出了自己合成维生素的功能。我们的灵长类祖先开始出大量水果，所以这个
+  功能就退化了。
